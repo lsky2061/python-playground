@@ -2,7 +2,7 @@ import math
 import pandas as pd
 import numpy as np
 
-def SwissTournament(filename = 'TrekMovies.txt'):
+def SwissTournament(filename = 'TrekMovies.txt', verbose = 1):
     dft = pd.read_csv(filename)
     c_name = list(dft.columns)[0]
     #print (df_tournament.head(20))
@@ -70,12 +70,13 @@ def SwissTournament(filename = 'TrekMovies.txt'):
         print("List of Contenders: ",full_con_list)
         for con in full_con_list:
             if (not (con in needing_matches)): continue #Skip contenders that have already been matched
-            print("Still needing matches for this round: ", needing_matches)
+            if(verbose >= 1): print("Still needing matches for this round: ", needing_matches)
             #New method, starting with list of all contenders needing to ... well... contend
             #Start with a contender
             #Go through list of allowed opponents
             allowed_opp = allowed_opp_dict[con]
-            print("Contender:", con,"\n Remaining opponents:", allowed_opp,"\n\n")
+            if(verbose >= 1): print("Contender:", con,"\n Remaining opponents:", allowed_opp,"\n\n")
+            if (verbose >= 1): print(dft.head(len(dft)))
             ##Find first allowed opponent with identical score
             opp_found = False
             score_gap = 0;
@@ -86,11 +87,11 @@ def SwissTournament(filename = 'TrekMovies.txt'):
                 print("PROBLEM!!")
                 exit(-1)
             while(not opp_found):
-                print('Opp not found yet')
-                print('Trying score gap of ',score_gap)
+                #print('Opp not found yet')
+                if(verbose >= 2): print('Trying score gap of ',score_gap)
                 i = 0
                 con_score = float(dft.loc[dft[c_name] == con, 'Score'])
-                print("Contender: ", con, 'Score = ', con_score)
+                if(verbose >= 2): print("Contender: ", con, 'Score = ', con_score)
                 while (i < len(allowed_opp) and (not opp_found)):
                     opp_a = allowed_opp[i]
                     i+=1
@@ -99,11 +100,11 @@ def SwissTournament(filename = 'TrekMovies.txt'):
                     ## Not already have been matched this round
                     ## Have close score
                     opp_score = float(dft.loc[dft[c_name] == opp_a,'Score'])
-                    print("\n Potential Opponent : ",opp_a,'Score = ', opp_score)
+                    if(verbose >= 2):print("\n Potential Opponent : ",opp_a,'Score = ', opp_score)
                     if (not (opp_a in needing_matches)):
-                        print(opp_a, 'already had a match this round.')
+                        if(verbose >= 2): (opp_a, 'already had a match this round.')
                     elif (abs(con_score - opp_score) > score_gap):
-                        print('Score difference is too large')
+                        if(verbose >=2): ('Score difference is too large')
                     else:
                         opp_found = True
                         opp = opp_a
