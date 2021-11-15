@@ -3,14 +3,6 @@
 ## Need to reverse k and v to store the matches as a list
 ## Then, map the possibilites to image files
 ## Produce the image
-#Increase cheat levels
-## Automatically try with just elemenents, then add levels as necessary
-## 1. Reversals
-## 2. electron
-## 3. Deuterium and Tritium
-## 4. Single letters to replace doubles (Am -> A, Ga -> G, etc.)
-### [['Am','A'], ['Ga','G'],['La','L'],['Mg','M'],['Ra','R'],['Ti','T'],['Xe','X'],['Zn','Z']]
-## 5. Somehow add J and Q
 
 def elements_single_letter():
     vl = ['H', 'B', 'C', 'N', 'O', 'F', 'P', 'S', 'K', 'V', 'Y', 'I', 'W', 'U']
@@ -30,11 +22,18 @@ def elements_two_letter():
 
 #Idea
 
-def check_start(word, try_e = False, try_rev = False):
+def check_start(word, try_e = False, try_rev = False, try_DT = False, try_single = False, try_JQ = False):
     ESL = elements_single_letter()
     ETL = elements_two_letter()
 
     if (try_e): ESL = ESL + ['e']  # Cheat with electron
+    if (try_DT): ESL = ESL + ['D','T']
+    if (try_single):
+        replacements = [['Am','A'], ['Ga','G'],['La','L'],['Mg','M'],['Ra','R'],['Xe','X'],['Zn','Z']]
+        for r in replacements:
+            ESL = ESL+[r[1]]
+            ETL.remove(r[0])
+    if(try_JQ): ESL = ESL + ['J','Q']
 
 
     el_reversed = []
@@ -61,7 +60,18 @@ def check_start(word, try_e = False, try_rev = False):
                     if(w2r in el_reversed): matches = matches + [w2r]
     return matches
 
-def writer(word, try_e = False, try_rev = False):
+def writer(word, cheat):
+    try_rev = False #1
+    try_e = False #2
+    try_DT = False #3
+    try_single = False #4
+    try_JQ = False #5
+    if(cheat >= 1): try_rev = True
+    if(cheat >= 2): try_e = True
+    if(cheat >= 3): try_DT = True
+    if(cheat >= 4): try_single = True
+    if(cheat >= 5): try_JQ = True 
+    
     #Take in a word
     #Send to check_start
     dict = {'':word}
@@ -75,7 +85,7 @@ def writer(word, try_e = False, try_rev = False):
     # Repeat until dict is empty or has only entries with blank values, indicating matched word
     while(len(dict)>0 and (v_blanks != len(dict))):
         for k, v in dict.items():
-            matches = check_start(v, try_e, try_rev)
+            matches = check_start(v, try_e, try_rev,try_DT = try_DT, try_single = try_single,try_JQ = try_JQ)
             if(len(v) >0): print("Word =",v,"Matches = ",matches)
             if(len(matches)==0 and (v != '')):
                 dict_tmp.pop(k)
@@ -112,6 +122,22 @@ def writer(word, try_e = False, try_rev = False):
 def picture(word):
     #Run writer
     print("Nothing yet")
+    cheat_level = 0
+    max_cheat = 5
+    keep_trying = True
+
+    while(keep_trying and (cheat_level <= max_cheat)):
+        outlist = writer(word,cheat_level)
+        if(outlist == []):
+            print("------ Not possible with Cheat Level", cheat_level,"--------")
+            cheat_level = cheat_level + 1
+        else:
+            print("------ FOUND WORKING COMBINATION -----------------------")
+            print("------ NEEDED CHEAT LEVEL",cheat_level," ---------------")
+            keep_trying = False 
+        
+    
+        
 
 
 
