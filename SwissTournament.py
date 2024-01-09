@@ -1,6 +1,5 @@
 import math
 import pandas as pd
-import numpy as np
 
 def SwissTournament(filename = 'TrekMovies.txt', round_robin = False, verbose = 1):
     dft = pd.read_csv(filename)
