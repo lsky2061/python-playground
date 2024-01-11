@@ -104,9 +104,8 @@ class Window(QWidget):
         print(f'{hour}:{minute}')
         with open (caption_file, 'w') as f:
             f.write(caption)
-        #os.system(f'at -f {working_dir}/PicDisplay.sh {hour}:{minute} {ampm}')
-        #os.system(f'{working_dir}/PicDisplay.sh {working_dir}')
-        #os.system(f'at {hour}:{minute} {ampm} <<< \"{working_dir}/PicDisplay.sh {image_file_name}\"')
+        #The somewhat convoluted construction below is due to os using dash (rather than bash) in Ubuntu
+        #https://stackoverflow.com/questions/16045139/redirector-in-ubuntu
         os.system(f'echo \'{working_dir}/PicDisplay.sh {image_file_name}\' | at {hour}:{minute} {ampm}')
         ##
         mbox = QMessageBox.information(self,"Reminder Set!",f"Reminder set for {hour}:{minute} {ampm}",QMessageBox.Ok)
