@@ -11,6 +11,8 @@ image_file_name = 'default_image.jpg'
 working_dir = f'{os.getcwd()}/{os.path.dirname(__file__)}'
 caption_file = f'{working_dir}/images/captions/{image_file_name}.txt'
 
+print(f'Working Directory: {working_dir}')
+
 main_width = 960
 main_height = 540
 main_x = 250
@@ -102,9 +104,10 @@ class Window(QWidget):
         print(f'{hour}:{minute}')
         with open (caption_file, 'w') as f:
             f.write(caption)
-        os.system(f'at -f {working_dir}/PicDisplay.sh {hour}:{minute} {ampm}')
+        #os.system(f'at -f {working_dir}/PicDisplay.sh {hour}:{minute} {ampm}')
         #os.system(f'{working_dir}/PicDisplay.sh {working_dir}')
-            
+        #os.system(f'at {hour}:{minute} {ampm} <<< \"{working_dir}/PicDisplay.sh {image_file_name}\"')
+        os.system(f'echo \'{working_dir}/PicDisplay.sh {image_file_name}\' | at {hour}:{minute} {ampm}')
         ##
         mbox = QMessageBox.information(self,"Reminder Set!",f"Reminder set for {hour}:{minute} {ampm}",QMessageBox.Ok)
         if mbox == QMessageBox.Ok:
