@@ -9,7 +9,7 @@ image_file_name = 'default_image.jpg'
 #Below is the command that should give us the path to the directory that
 #contains this file, regardless of where we run it from
 #working_dir = f'{os.getcwd()}/{os.path.dirname(__file__)}'
-working_dir = f'{os.path.dirname(__file__)}'
+working_dir = f'{os.getcwd()}'
 caption_file = f'{working_dir}/images/captions/{image_file_name}.txt'
 
 print(f'getcwd(): {os.getcwd()}')
@@ -101,20 +101,18 @@ class Window(QWidget):
         ampm = self.combo.currentText()
         caption = self.editor.toPlainText()
 
-        
-
         ##
         #print(f'{hour}:{minute}')
 
         #This part (writing of the caption file, should really be put in the 'at' command.
         #As is, if the user sets multiple reminders, only the last caption entered will be used.
-        with open (caption_file, 'w') as f:
-            f.write(caption)
+        #with open (caption_file, 'w') as f:
+        #    f.write(caption)
 
         #The somewhat convoluted construction below is due to os using dash (rather than bash) in Ubuntu
         #https://stackoverflow.com/questions/16045139/redirector-in-ubuntu
 
-        os.system(f'echo \'{working_dir}/PicDisplay.sh {image_file_name}\' | at {hour}:{minute} {ampm}')
+        os.system(f'echo \'{working_dir}/PicDisplay.sh {image_file_name} \"{caption}\"\' | at {hour}:{minute} {ampm}')
         ##
         mbox = QMessageBox.information(self,"Reminder Set!",f"Reminder set for {hour}:{minute} {ampm}",QMessageBox.Ok)
         if mbox == QMessageBox.Ok:
