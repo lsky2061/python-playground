@@ -1,0 +1,16 @@
+Hex 0x1bca0 || Decimal 113824 || Character 𛲠 
+Hex 0x1bca1 || Decimal 113825 || Character 𛲡 
+Hex 0x1bca2 || Decimal 113826 || Character 𛲢 
+Hex 0x1bca3 || Decimal 113827 || Character 𛲣 
+Hex 0x1bca4 || Decimal 113828 || Character 𛲤 
+Hex 0x1bca5 || Decimal 113829 || Character 𛲥 
+Hex 0x1bca6 || Decimal 113830 || Character 𛲦 
+Hex 0x1bca7 || Decimal 113831 || Character 𛲧 
+Hex 0x1bca8 || Decimal 113832 || Character 𛲨 
+Hex 0x1bca9 || Decimal 113833 || Character 𛲩 
+Hex 0x1bcaa || Decimal 113834 || Character 𛲪 
+Hex 0x1bcab || Decimal 113835 || Character 𛲫 
+Hex 0x1bcac || Decimal 113836 || Character 𛲬 
+Hex 0x1bcad || Decimal 113837 || Character 𛲭 
+Hex 0x1bcae || Decimal 113838 || Character 𛲮 
+Hex 0x1bcaf || Decimal 113839 || Character 𛲯 

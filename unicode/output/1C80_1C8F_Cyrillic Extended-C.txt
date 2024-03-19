@@ -1,0 +1,16 @@
+Hex 0x1c80 || Decimal 7296 || Character ᲀ 
+Hex 0x1c81 || Decimal 7297 || Character ᲁ 
+Hex 0x1c82 || Decimal 7298 || Character ᲂ 
+Hex 0x1c83 || Decimal 7299 || Character ᲃ 
+Hex 0x1c84 || Decimal 7300 || Character ᲄ 
+Hex 0x1c85 || Decimal 7301 || Character ᲅ 
+Hex 0x1c86 || Decimal 7302 || Character ᲆ 
+Hex 0x1c87 || Decimal 7303 || Character ᲇ 
+Hex 0x1c88 || Decimal 7304 || Character ᲈ 
+Hex 0x1c89 || Decimal 7305 || Character Ᲊ 
+Hex 0x1c8a || Decimal 7306 || Character ᲊ 
+Hex 0x1c8b || Decimal 7307 || Character ᲋ 
+Hex 0x1c8c || Decimal 7308 || Character ᲌ 
+Hex 0x1c8d || Decimal 7309 || Character ᲍ 
+Hex 0x1c8e || Decimal 7310 || Character ᲎ 
+Hex 0x1c8f || Decimal 7311 || Character ᲏ 

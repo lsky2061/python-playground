@@ -1,0 +1,16 @@
+Hex 0x2ff0 || Decimal 12272 || Character ⿰ 
+Hex 0x2ff1 || Decimal 12273 || Character ⿱ 
+Hex 0x2ff2 || Decimal 12274 || Character ⿲ 
+Hex 0x2ff3 || Decimal 12275 || Character ⿳ 
+Hex 0x2ff4 || Decimal 12276 || Character ⿴ 
+Hex 0x2ff5 || Decimal 12277 || Character ⿵ 
+Hex 0x2ff6 || Decimal 12278 || Character ⿶ 
+Hex 0x2ff7 || Decimal 12279 || Character ⿷ 
+Hex 0x2ff8 || Decimal 12280 || Character ⿸ 
+Hex 0x2ff9 || Decimal 12281 || Character ⿹ 
+Hex 0x2ffa || Decimal 12282 || Character ⿺ 
+Hex 0x2ffb || Decimal 12283 || Character ⿻ 
+Hex 0x2ffc || Decimal 12284 || Character ⿼ 
+Hex 0x2ffd || Decimal 12285 || Character ⿽ 
+Hex 0x2ffe || Decimal 12286 || Character ⿾ 
+Hex 0x2fff || Decimal 12287 || Character ⿿ 

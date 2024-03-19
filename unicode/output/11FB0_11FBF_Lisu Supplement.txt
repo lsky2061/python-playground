@@ -1,0 +1,16 @@
+Hex 0x11fb0 || Decimal 73648 || Character 𑾰 
+Hex 0x11fb1 || Decimal 73649 || Character 𑾱 
+Hex 0x11fb2 || Decimal 73650 || Character 𑾲 
+Hex 0x11fb3 || Decimal 73651 || Character 𑾳 
+Hex 0x11fb4 || Decimal 73652 || Character 𑾴 
+Hex 0x11fb5 || Decimal 73653 || Character 𑾵 
+Hex 0x11fb6 || Decimal 73654 || Character 𑾶 
+Hex 0x11fb7 || Decimal 73655 || Character 𑾷 
+Hex 0x11fb8 || Decimal 73656 || Character 𑾸 
+Hex 0x11fb9 || Decimal 73657 || Character 𑾹 
+Hex 0x11fba || Decimal 73658 || Character 𑾺 
+Hex 0x11fbb || Decimal 73659 || Character 𑾻 
+Hex 0x11fbc || Decimal 73660 || Character 𑾼 
+Hex 0x11fbd || Decimal 73661 || Character 𑾽 
+Hex 0x11fbe || Decimal 73662 || Character 𑾾 
+Hex 0x11fbf || Decimal 73663 || Character 𑾿 

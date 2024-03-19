@@ -1,0 +1,16 @@
+Hex 0x1aff0 || Decimal 110576 || Character 𚿰 
+Hex 0x1aff1 || Decimal 110577 || Character 𚿱 
+Hex 0x1aff2 || Decimal 110578 || Character 𚿲 
+Hex 0x1aff3 || Decimal 110579 || Character 𚿳 
+Hex 0x1aff4 || Decimal 110580 || Character 𚿴 
+Hex 0x1aff5 || Decimal 110581 || Character 𚿵 
+Hex 0x1aff6 || Decimal 110582 || Character 𚿶 
+Hex 0x1aff7 || Decimal 110583 || Character 𚿷 
+Hex 0x1aff8 || Decimal 110584 || Character 𚿸 
+Hex 0x1aff9 || Decimal 110585 || Character 𚿹 
+Hex 0x1affa || Decimal 110586 || Character 𚿺 
+Hex 0x1affb || Decimal 110587 || Character 𚿻 
+Hex 0x1affc || Decimal 110588 || Character 𚿼 
+Hex 0x1affd || Decimal 110589 || Character 𚿽 
+Hex 0x1affe || Decimal 110590 || Character 𚿾 
+Hex 0x1afff || Decimal 110591 || Character 𚿿 

@@ -1,0 +1,16 @@
+Hex 0xfff0 || Decimal 65520 || Character ￰ 
+Hex 0xfff1 || Decimal 65521 || Character ￱ 
+Hex 0xfff2 || Decimal 65522 || Character ￲ 
+Hex 0xfff3 || Decimal 65523 || Character ￳ 
+Hex 0xfff4 || Decimal 65524 || Character ￴ 
+Hex 0xfff5 || Decimal 65525 || Character ￵ 
+Hex 0xfff6 || Decimal 65526 || Character ￶ 
+Hex 0xfff7 || Decimal 65527 || Character ￷ 
+Hex 0xfff8 || Decimal 65528 || Character ￸ 
+Hex 0xfff9 || Decimal 65529 || Character ￹ 
+Hex 0xfffa || Decimal 65530 || Character ￺ 
+Hex 0xfffb || Decimal 65531 || Character ￻ 
+Hex 0xfffc || Decimal 65532 || Character ￼ 
+Hex 0xfffd || Decimal 65533 || Character � 
+Hex 0xfffe || Decimal 65534 || Character ￾ 
+Hex 0xffff || Decimal 65535 || Character ￿ 

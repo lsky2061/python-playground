@@ -1,0 +1,16 @@
+Hex 0x11ab0 || Decimal 72368 || Character 𑪰 
+Hex 0x11ab1 || Decimal 72369 || Character 𑪱 
+Hex 0x11ab2 || Decimal 72370 || Character 𑪲 
+Hex 0x11ab3 || Decimal 72371 || Character 𑪳 
+Hex 0x11ab4 || Decimal 72372 || Character 𑪴 
+Hex 0x11ab5 || Decimal 72373 || Character 𑪵 
+Hex 0x11ab6 || Decimal 72374 || Character 𑪶 
+Hex 0x11ab7 || Decimal 72375 || Character 𑪷 
+Hex 0x11ab8 || Decimal 72376 || Character 𑪸 
+Hex 0x11ab9 || Decimal 72377 || Character 𑪹 
+Hex 0x11aba || Decimal 72378 || Character 𑪺 
+Hex 0x11abb || Decimal 72379 || Character 𑪻 
+Hex 0x11abc || Decimal 72380 || Character 𑪼 
+Hex 0x11abd || Decimal 72381 || Character 𑪽 
+Hex 0x11abe || Decimal 72382 || Character 𑪾 
+Hex 0x11abf || Decimal 72383 || Character 𑪿 

@@ -1,0 +1,224 @@
+Hex 0x1e800 || Decimal 124928 || Character 𞠀 
+Hex 0x1e801 || Decimal 124929 || Character 𞠁 
+Hex 0x1e802 || Decimal 124930 || Character 𞠂 
+Hex 0x1e803 || Decimal 124931 || Character 𞠃 
+Hex 0x1e804 || Decimal 124932 || Character 𞠄 
+Hex 0x1e805 || Decimal 124933 || Character 𞠅 
+Hex 0x1e806 || Decimal 124934 || Character 𞠆 
+Hex 0x1e807 || Decimal 124935 || Character 𞠇 
+Hex 0x1e808 || Decimal 124936 || Character 𞠈 
+Hex 0x1e809 || Decimal 124937 || Character 𞠉 
+Hex 0x1e80a || Decimal 124938 || Character 𞠊 
+Hex 0x1e80b || Decimal 124939 || Character 𞠋 
+Hex 0x1e80c || Decimal 124940 || Character 𞠌 
+Hex 0x1e80d || Decimal 124941 || Character 𞠍 
+Hex 0x1e80e || Decimal 124942 || Character 𞠎 
+Hex 0x1e80f || Decimal 124943 || Character 𞠏 
+Hex 0x1e810 || Decimal 124944 || Character 𞠐 
+Hex 0x1e811 || Decimal 124945 || Character 𞠑 
+Hex 0x1e812 || Decimal 124946 || Character 𞠒 
+Hex 0x1e813 || Decimal 124947 || Character 𞠓 
+Hex 0x1e814 || Decimal 124948 || Character 𞠔 
+Hex 0x1e815 || Decimal 124949 || Character 𞠕 
+Hex 0x1e816 || Decimal 124950 || Character 𞠖 
+Hex 0x1e817 || Decimal 124951 || Character 𞠗 
+Hex 0x1e818 || Decimal 124952 || Character 𞠘 
+Hex 0x1e819 || Decimal 124953 || Character 𞠙 
+Hex 0x1e81a || Decimal 124954 || Character 𞠚 
+Hex 0x1e81b || Decimal 124955 || Character 𞠛 
+Hex 0x1e81c || Decimal 124956 || Character 𞠜 
+Hex 0x1e81d || Decimal 124957 || Character 𞠝 
+Hex 0x1e81e || Decimal 124958 || Character 𞠞 
+Hex 0x1e81f || Decimal 124959 || Character 𞠟 
+Hex 0x1e820 || Decimal 124960 || Character 𞠠 
+Hex 0x1e821 || Decimal 124961 || Character 𞠡 
+Hex 0x1e822 || Decimal 124962 || Character 𞠢 
+Hex 0x1e823 || Decimal 124963 || Character 𞠣 
+Hex 0x1e824 || Decimal 124964 || Character 𞠤 
+Hex 0x1e825 || Decimal 124965 || Character 𞠥 
+Hex 0x1e826 || Decimal 124966 || Character 𞠦 
+Hex 0x1e827 || Decimal 124967 || Character 𞠧 
+Hex 0x1e828 || Decimal 124968 || Character 𞠨 
+Hex 0x1e829 || Decimal 124969 || Character 𞠩 
+Hex 0x1e82a || Decimal 124970 || Character 𞠪 
+Hex 0x1e82b || Decimal 124971 || Character 𞠫 
+Hex 0x1e82c || Decimal 124972 || Character 𞠬 
+Hex 0x1e82d || Decimal 124973 || Character 𞠭 
+Hex 0x1e82e || Decimal 124974 || Character 𞠮 
+Hex 0x1e82f || Decimal 124975 || Character 𞠯 
+Hex 0x1e830 || Decimal 124976 || Character 𞠰 
+Hex 0x1e831 || Decimal 124977 || Character 𞠱 
+Hex 0x1e832 || Decimal 124978 || Character 𞠲 
+Hex 0x1e833 || Decimal 124979 || Character 𞠳 
+Hex 0x1e834 || Decimal 124980 || Character 𞠴 
+Hex 0x1e835 || Decimal 124981 || Character 𞠵 
+Hex 0x1e836 || Decimal 124982 || Character 𞠶 
+Hex 0x1e837 || Decimal 124983 || Character 𞠷 
+Hex 0x1e838 || Decimal 124984 || Character 𞠸 
+Hex 0x1e839 || Decimal 124985 || Character 𞠹 
+Hex 0x1e83a || Decimal 124986 || Character 𞠺 
+Hex 0x1e83b || Decimal 124987 || Character 𞠻 
+Hex 0x1e83c || Decimal 124988 || Character 𞠼 
+Hex 0x1e83d || Decimal 124989 || Character 𞠽 
+Hex 0x1e83e || Decimal 124990 || Character 𞠾 
+Hex 0x1e83f || Decimal 124991 || Character 𞠿 
+Hex 0x1e840 || Decimal 124992 || Character 𞡀 
+Hex 0x1e841 || Decimal 124993 || Character 𞡁 
+Hex 0x1e842 || Decimal 124994 || Character 𞡂 
+Hex 0x1e843 || Decimal 124995 || Character 𞡃 
+Hex 0x1e844 || Decimal 124996 || Character 𞡄 
+Hex 0x1e845 || Decimal 124997 || Character 𞡅 
+Hex 0x1e846 || Decimal 124998 || Character 𞡆 
+Hex 0x1e847 || Decimal 124999 || Character 𞡇 
+Hex 0x1e848 || Decimal 125000 || Character 𞡈 
+Hex 0x1e849 || Decimal 125001 || Character 𞡉 
+Hex 0x1e84a || Decimal 125002 || Character 𞡊 
+Hex 0x1e84b || Decimal 125003 || Character 𞡋 
+Hex 0x1e84c || Decimal 125004 || Character 𞡌 
+Hex 0x1e84d || Decimal 125005 || Character 𞡍 
+Hex 0x1e84e || Decimal 125006 || Character 𞡎 
+Hex 0x1e84f || Decimal 125007 || Character 𞡏 
+Hex 0x1e850 || Decimal 125008 || Character 𞡐 
+Hex 0x1e851 || Decimal 125009 || Character 𞡑 
+Hex 0x1e852 || Decimal 125010 || Character 𞡒 
+Hex 0x1e853 || Decimal 125011 || Character 𞡓 
+Hex 0x1e854 || Decimal 125012 || Character 𞡔 
+Hex 0x1e855 || Decimal 125013 || Character 𞡕 
+Hex 0x1e856 || Decimal 125014 || Character 𞡖 
+Hex 0x1e857 || Decimal 125015 || Character 𞡗 
+Hex 0x1e858 || Decimal 125016 || Character 𞡘 
+Hex 0x1e859 || Decimal 125017 || Character 𞡙 
+Hex 0x1e85a || Decimal 125018 || Character 𞡚 
+Hex 0x1e85b || Decimal 125019 || Character 𞡛 
+Hex 0x1e85c || Decimal 125020 || Character 𞡜 
+Hex 0x1e85d || Decimal 125021 || Character 𞡝 
+Hex 0x1e85e || Decimal 125022 || Character 𞡞 
+Hex 0x1e85f || Decimal 125023 || Character 𞡟 
+Hex 0x1e860 || Decimal 125024 || Character 𞡠 
+Hex 0x1e861 || Decimal 125025 || Character 𞡡 
+Hex 0x1e862 || Decimal 125026 || Character 𞡢 
+Hex 0x1e863 || Decimal 125027 || Character 𞡣 
+Hex 0x1e864 || Decimal 125028 || Character 𞡤 
+Hex 0x1e865 || Decimal 125029 || Character 𞡥 
+Hex 0x1e866 || Decimal 125030 || Character 𞡦 
+Hex 0x1e867 || Decimal 125031 || Character 𞡧 
+Hex 0x1e868 || Decimal 125032 || Character 𞡨 
+Hex 0x1e869 || Decimal 125033 || Character 𞡩 
+Hex 0x1e86a || Decimal 125034 || Character 𞡪 
+Hex 0x1e86b || Decimal 125035 || Character 𞡫 
+Hex 0x1e86c || Decimal 125036 || Character 𞡬 
+Hex 0x1e86d || Decimal 125037 || Character 𞡭 
+Hex 0x1e86e || Decimal 125038 || Character 𞡮 
+Hex 0x1e86f || Decimal 125039 || Character 𞡯 
+Hex 0x1e870 || Decimal 125040 || Character 𞡰 
+Hex 0x1e871 || Decimal 125041 || Character 𞡱 
+Hex 0x1e872 || Decimal 125042 || Character 𞡲 
+Hex 0x1e873 || Decimal 125043 || Character 𞡳 
+Hex 0x1e874 || Decimal 125044 || Character 𞡴 
+Hex 0x1e875 || Decimal 125045 || Character 𞡵 
+Hex 0x1e876 || Decimal 125046 || Character 𞡶 
+Hex 0x1e877 || Decimal 125047 || Character 𞡷 
+Hex 0x1e878 || Decimal 125048 || Character 𞡸 
+Hex 0x1e879 || Decimal 125049 || Character 𞡹 
+Hex 0x1e87a || Decimal 125050 || Character 𞡺 
+Hex 0x1e87b || Decimal 125051 || Character 𞡻 
+Hex 0x1e87c || Decimal 125052 || Character 𞡼 
+Hex 0x1e87d || Decimal 125053 || Character 𞡽 
+Hex 0x1e87e || Decimal 125054 || Character 𞡾 
+Hex 0x1e87f || Decimal 125055 || Character 𞡿 
+Hex 0x1e880 || Decimal 125056 || Character 𞢀 
+Hex 0x1e881 || Decimal 125057 || Character 𞢁 
+Hex 0x1e882 || Decimal 125058 || Character 𞢂 
+Hex 0x1e883 || Decimal 125059 || Character 𞢃 
+Hex 0x1e884 || Decimal 125060 || Character 𞢄 
+Hex 0x1e885 || Decimal 125061 || Character 𞢅 
+Hex 0x1e886 || Decimal 125062 || Character 𞢆 
+Hex 0x1e887 || Decimal 125063 || Character 𞢇 
+Hex 0x1e888 || Decimal 125064 || Character 𞢈 
+Hex 0x1e889 || Decimal 125065 || Character 𞢉 
+Hex 0x1e88a || Decimal 125066 || Character 𞢊 
+Hex 0x1e88b || Decimal 125067 || Character 𞢋 
+Hex 0x1e88c || Decimal 125068 || Character 𞢌 
+Hex 0x1e88d || Decimal 125069 || Character 𞢍 
+Hex 0x1e88e || Decimal 125070 || Character 𞢎 
+Hex 0x1e88f || Decimal 125071 || Character 𞢏 
+Hex 0x1e890 || Decimal 125072 || Character 𞢐 
+Hex 0x1e891 || Decimal 125073 || Character 𞢑 
+Hex 0x1e892 || Decimal 125074 || Character 𞢒 
+Hex 0x1e893 || Decimal 125075 || Character 𞢓 
+Hex 0x1e894 || Decimal 125076 || Character 𞢔 
+Hex 0x1e895 || Decimal 125077 || Character 𞢕 
+Hex 0x1e896 || Decimal 125078 || Character 𞢖 
+Hex 0x1e897 || Decimal 125079 || Character 𞢗 
+Hex 0x1e898 || Decimal 125080 || Character 𞢘 
+Hex 0x1e899 || Decimal 125081 || Character 𞢙 
+Hex 0x1e89a || Decimal 125082 || Character 𞢚 
+Hex 0x1e89b || Decimal 125083 || Character 𞢛 
+Hex 0x1e89c || Decimal 125084 || Character 𞢜 
+Hex 0x1e89d || Decimal 125085 || Character 𞢝 
+Hex 0x1e89e || Decimal 125086 || Character 𞢞 
+Hex 0x1e89f || Decimal 125087 || Character 𞢟 
+Hex 0x1e8a0 || Decimal 125088 || Character 𞢠 
+Hex 0x1e8a1 || Decimal 125089 || Character 𞢡 
+Hex 0x1e8a2 || Decimal 125090 || Character 𞢢 
+Hex 0x1e8a3 || Decimal 125091 || Character 𞢣 
+Hex 0x1e8a4 || Decimal 125092 || Character 𞢤 
+Hex 0x1e8a5 || Decimal 125093 || Character 𞢥 
+Hex 0x1e8a6 || Decimal 125094 || Character 𞢦 
+Hex 0x1e8a7 || Decimal 125095 || Character 𞢧 
+Hex 0x1e8a8 || Decimal 125096 || Character 𞢨 
+Hex 0x1e8a9 || Decimal 125097 || Character 𞢩 
+Hex 0x1e8aa || Decimal 125098 || Character 𞢪 
+Hex 0x1e8ab || Decimal 125099 || Character 𞢫 
+Hex 0x1e8ac || Decimal 125100 || Character 𞢬 
+Hex 0x1e8ad || Decimal 125101 || Character 𞢭 
+Hex 0x1e8ae || Decimal 125102 || Character 𞢮 
+Hex 0x1e8af || Decimal 125103 || Character 𞢯 
+Hex 0x1e8b0 || Decimal 125104 || Character 𞢰 
+Hex 0x1e8b1 || Decimal 125105 || Character 𞢱 
+Hex 0x1e8b2 || Decimal 125106 || Character 𞢲 
+Hex 0x1e8b3 || Decimal 125107 || Character 𞢳 
+Hex 0x1e8b4 || Decimal 125108 || Character 𞢴 
+Hex 0x1e8b5 || Decimal 125109 || Character 𞢵 
+Hex 0x1e8b6 || Decimal 125110 || Character 𞢶 
+Hex 0x1e8b7 || Decimal 125111 || Character 𞢷 
+Hex 0x1e8b8 || Decimal 125112 || Character 𞢸 
+Hex 0x1e8b9 || Decimal 125113 || Character 𞢹 
+Hex 0x1e8ba || Decimal 125114 || Character 𞢺 
+Hex 0x1e8bb || Decimal 125115 || Character 𞢻 
+Hex 0x1e8bc || Decimal 125116 || Character 𞢼 
+Hex 0x1e8bd || Decimal 125117 || Character 𞢽 
+Hex 0x1e8be || Decimal 125118 || Character 𞢾 
+Hex 0x1e8bf || Decimal 125119 || Character 𞢿 
+Hex 0x1e8c0 || Decimal 125120 || Character 𞣀 
+Hex 0x1e8c1 || Decimal 125121 || Character 𞣁 
+Hex 0x1e8c2 || Decimal 125122 || Character 𞣂 
+Hex 0x1e8c3 || Decimal 125123 || Character 𞣃 
+Hex 0x1e8c4 || Decimal 125124 || Character 𞣄 
+Hex 0x1e8c5 || Decimal 125125 || Character 𞣅 
+Hex 0x1e8c6 || Decimal 125126 || Character 𞣆 
+Hex 0x1e8c7 || Decimal 125127 || Character 𞣇 
+Hex 0x1e8c8 || Decimal 125128 || Character 𞣈 
+Hex 0x1e8c9 || Decimal 125129 || Character 𞣉 
+Hex 0x1e8ca || Decimal 125130 || Character 𞣊 
+Hex 0x1e8cb || Decimal 125131 || Character 𞣋 
+Hex 0x1e8cc || Decimal 125132 || Character 𞣌 
+Hex 0x1e8cd || Decimal 125133 || Character 𞣍 
+Hex 0x1e8ce || Decimal 125134 || Character 𞣎 
+Hex 0x1e8cf || Decimal 125135 || Character 𞣏 
+Hex 0x1e8d0 || Decimal 125136 || Character 𞣐 
+Hex 0x1e8d1 || Decimal 125137 || Character 𞣑 
+Hex 0x1e8d2 || Decimal 125138 || Character 𞣒 
+Hex 0x1e8d3 || Decimal 125139 || Character 𞣓 
+Hex 0x1e8d4 || Decimal 125140 || Character 𞣔 
+Hex 0x1e8d5 || Decimal 125141 || Character 𞣕 
+Hex 0x1e8d6 || Decimal 125142 || Character 𞣖 
+Hex 0x1e8d7 || Decimal 125143 || Character 𞣗 
+Hex 0x1e8d8 || Decimal 125144 || Character 𞣘 
+Hex 0x1e8d9 || Decimal 125145 || Character 𞣙 
+Hex 0x1e8da || Decimal 125146 || Character 𞣚 
+Hex 0x1e8db || Decimal 125147 || Character 𞣛 
+Hex 0x1e8dc || Decimal 125148 || Character 𞣜 
+Hex 0x1e8dd || Decimal 125149 || Character 𞣝 
+Hex 0x1e8de || Decimal 125150 || Character 𞣞 
+Hex 0x1e8df || Decimal 125151 || Character 𞣟 

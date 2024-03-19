@@ -1,0 +1,576 @@
+Hex 0x16800 || Decimal 92160 || Character 𖠀 
+Hex 0x16801 || Decimal 92161 || Character 𖠁 
+Hex 0x16802 || Decimal 92162 || Character 𖠂 
+Hex 0x16803 || Decimal 92163 || Character 𖠃 
+Hex 0x16804 || Decimal 92164 || Character 𖠄 
+Hex 0x16805 || Decimal 92165 || Character 𖠅 
+Hex 0x16806 || Decimal 92166 || Character 𖠆 
+Hex 0x16807 || Decimal 92167 || Character 𖠇 
+Hex 0x16808 || Decimal 92168 || Character 𖠈 
+Hex 0x16809 || Decimal 92169 || Character 𖠉 
+Hex 0x1680a || Decimal 92170 || Character 𖠊 
+Hex 0x1680b || Decimal 92171 || Character 𖠋 
+Hex 0x1680c || Decimal 92172 || Character 𖠌 
+Hex 0x1680d || Decimal 92173 || Character 𖠍 
+Hex 0x1680e || Decimal 92174 || Character 𖠎 
+Hex 0x1680f || Decimal 92175 || Character 𖠏 
+Hex 0x16810 || Decimal 92176 || Character 𖠐 
+Hex 0x16811 || Decimal 92177 || Character 𖠑 
+Hex 0x16812 || Decimal 92178 || Character 𖠒 
+Hex 0x16813 || Decimal 92179 || Character 𖠓 
+Hex 0x16814 || Decimal 92180 || Character 𖠔 
+Hex 0x16815 || Decimal 92181 || Character 𖠕 
+Hex 0x16816 || Decimal 92182 || Character 𖠖 
+Hex 0x16817 || Decimal 92183 || Character 𖠗 
+Hex 0x16818 || Decimal 92184 || Character 𖠘 
+Hex 0x16819 || Decimal 92185 || Character 𖠙 
+Hex 0x1681a || Decimal 92186 || Character 𖠚 
+Hex 0x1681b || Decimal 92187 || Character 𖠛 
+Hex 0x1681c || Decimal 92188 || Character 𖠜 
+Hex 0x1681d || Decimal 92189 || Character 𖠝 
+Hex 0x1681e || Decimal 92190 || Character 𖠞 
+Hex 0x1681f || Decimal 92191 || Character 𖠟 
+Hex 0x16820 || Decimal 92192 || Character 𖠠 
+Hex 0x16821 || Decimal 92193 || Character 𖠡 
+Hex 0x16822 || Decimal 92194 || Character 𖠢 
+Hex 0x16823 || Decimal 92195 || Character 𖠣 
+Hex 0x16824 || Decimal 92196 || Character 𖠤 
+Hex 0x16825 || Decimal 92197 || Character 𖠥 
+Hex 0x16826 || Decimal 92198 || Character 𖠦 
+Hex 0x16827 || Decimal 92199 || Character 𖠧 
+Hex 0x16828 || Decimal 92200 || Character 𖠨 
+Hex 0x16829 || Decimal 92201 || Character 𖠩 
+Hex 0x1682a || Decimal 92202 || Character 𖠪 
+Hex 0x1682b || Decimal 92203 || Character 𖠫 
+Hex 0x1682c || Decimal 92204 || Character 𖠬 
+Hex 0x1682d || Decimal 92205 || Character 𖠭 
+Hex 0x1682e || Decimal 92206 || Character 𖠮 
+Hex 0x1682f || Decimal 92207 || Character 𖠯 
+Hex 0x16830 || Decimal 92208 || Character 𖠰 
+Hex 0x16831 || Decimal 92209 || Character 𖠱 
+Hex 0x16832 || Decimal 92210 || Character 𖠲 
+Hex 0x16833 || Decimal 92211 || Character 𖠳 
+Hex 0x16834 || Decimal 92212 || Character 𖠴 
+Hex 0x16835 || Decimal 92213 || Character 𖠵 
+Hex 0x16836 || Decimal 92214 || Character 𖠶 
+Hex 0x16837 || Decimal 92215 || Character 𖠷 
+Hex 0x16838 || Decimal 92216 || Character 𖠸 
+Hex 0x16839 || Decimal 92217 || Character 𖠹 
+Hex 0x1683a || Decimal 92218 || Character 𖠺 
+Hex 0x1683b || Decimal 92219 || Character 𖠻 
+Hex 0x1683c || Decimal 92220 || Character 𖠼 
+Hex 0x1683d || Decimal 92221 || Character 𖠽 
+Hex 0x1683e || Decimal 92222 || Character 𖠾 
+Hex 0x1683f || Decimal 92223 || Character 𖠿 
+Hex 0x16840 || Decimal 92224 || Character 𖡀 
+Hex 0x16841 || Decimal 92225 || Character 𖡁 
+Hex 0x16842 || Decimal 92226 || Character 𖡂 
+Hex 0x16843 || Decimal 92227 || Character 𖡃 
+Hex 0x16844 || Decimal 92228 || Character 𖡄 
+Hex 0x16845 || Decimal 92229 || Character 𖡅 
+Hex 0x16846 || Decimal 92230 || Character 𖡆 
+Hex 0x16847 || Decimal 92231 || Character 𖡇 
+Hex 0x16848 || Decimal 92232 || Character 𖡈 
+Hex 0x16849 || Decimal 92233 || Character 𖡉 
+Hex 0x1684a || Decimal 92234 || Character 𖡊 
+Hex 0x1684b || Decimal 92235 || Character 𖡋 
+Hex 0x1684c || Decimal 92236 || Character 𖡌 
+Hex 0x1684d || Decimal 92237 || Character 𖡍 
+Hex 0x1684e || Decimal 92238 || Character 𖡎 
+Hex 0x1684f || Decimal 92239 || Character 𖡏 
+Hex 0x16850 || Decimal 92240 || Character 𖡐 
+Hex 0x16851 || Decimal 92241 || Character 𖡑 
+Hex 0x16852 || Decimal 92242 || Character 𖡒 
+Hex 0x16853 || Decimal 92243 || Character 𖡓 
+Hex 0x16854 || Decimal 92244 || Character 𖡔 
+Hex 0x16855 || Decimal 92245 || Character 𖡕 
+Hex 0x16856 || Decimal 92246 || Character 𖡖 
+Hex 0x16857 || Decimal 92247 || Character 𖡗 
+Hex 0x16858 || Decimal 92248 || Character 𖡘 
+Hex 0x16859 || Decimal 92249 || Character 𖡙 
+Hex 0x1685a || Decimal 92250 || Character 𖡚 
+Hex 0x1685b || Decimal 92251 || Character 𖡛 
+Hex 0x1685c || Decimal 92252 || Character 𖡜 
+Hex 0x1685d || Decimal 92253 || Character 𖡝 
+Hex 0x1685e || Decimal 92254 || Character 𖡞 
+Hex 0x1685f || Decimal 92255 || Character 𖡟 
+Hex 0x16860 || Decimal 92256 || Character 𖡠 
+Hex 0x16861 || Decimal 92257 || Character 𖡡 
+Hex 0x16862 || Decimal 92258 || Character 𖡢 
+Hex 0x16863 || Decimal 92259 || Character 𖡣 
+Hex 0x16864 || Decimal 92260 || Character 𖡤 
+Hex 0x16865 || Decimal 92261 || Character 𖡥 
+Hex 0x16866 || Decimal 92262 || Character 𖡦 
+Hex 0x16867 || Decimal 92263 || Character 𖡧 
+Hex 0x16868 || Decimal 92264 || Character 𖡨 
+Hex 0x16869 || Decimal 92265 || Character 𖡩 
+Hex 0x1686a || Decimal 92266 || Character 𖡪 
+Hex 0x1686b || Decimal 92267 || Character 𖡫 
+Hex 0x1686c || Decimal 92268 || Character 𖡬 
+Hex 0x1686d || Decimal 92269 || Character 𖡭 
+Hex 0x1686e || Decimal 92270 || Character 𖡮 
+Hex 0x1686f || Decimal 92271 || Character 𖡯 
+Hex 0x16870 || Decimal 92272 || Character 𖡰 
+Hex 0x16871 || Decimal 92273 || Character 𖡱 
+Hex 0x16872 || Decimal 92274 || Character 𖡲 
+Hex 0x16873 || Decimal 92275 || Character 𖡳 
+Hex 0x16874 || Decimal 92276 || Character 𖡴 
+Hex 0x16875 || Decimal 92277 || Character 𖡵 
+Hex 0x16876 || Decimal 92278 || Character 𖡶 
+Hex 0x16877 || Decimal 92279 || Character 𖡷 
+Hex 0x16878 || Decimal 92280 || Character 𖡸 
+Hex 0x16879 || Decimal 92281 || Character 𖡹 
+Hex 0x1687a || Decimal 92282 || Character 𖡺 
+Hex 0x1687b || Decimal 92283 || Character 𖡻 
+Hex 0x1687c || Decimal 92284 || Character 𖡼 
+Hex 0x1687d || Decimal 92285 || Character 𖡽 
+Hex 0x1687e || Decimal 92286 || Character 𖡾 
+Hex 0x1687f || Decimal 92287 || Character 𖡿 
+Hex 0x16880 || Decimal 92288 || Character 𖢀 
+Hex 0x16881 || Decimal 92289 || Character 𖢁 
+Hex 0x16882 || Decimal 92290 || Character 𖢂 
+Hex 0x16883 || Decimal 92291 || Character 𖢃 
+Hex 0x16884 || Decimal 92292 || Character 𖢄 
+Hex 0x16885 || Decimal 92293 || Character 𖢅 
+Hex 0x16886 || Decimal 92294 || Character 𖢆 
+Hex 0x16887 || Decimal 92295 || Character 𖢇 
+Hex 0x16888 || Decimal 92296 || Character 𖢈 
+Hex 0x16889 || Decimal 92297 || Character 𖢉 
+Hex 0x1688a || Decimal 92298 || Character 𖢊 
+Hex 0x1688b || Decimal 92299 || Character 𖢋 
+Hex 0x1688c || Decimal 92300 || Character 𖢌 
+Hex 0x1688d || Decimal 92301 || Character 𖢍 
+Hex 0x1688e || Decimal 92302 || Character 𖢎 
+Hex 0x1688f || Decimal 92303 || Character 𖢏 
+Hex 0x16890 || Decimal 92304 || Character 𖢐 
+Hex 0x16891 || Decimal 92305 || Character 𖢑 
+Hex 0x16892 || Decimal 92306 || Character 𖢒 
+Hex 0x16893 || Decimal 92307 || Character 𖢓 
+Hex 0x16894 || Decimal 92308 || Character 𖢔 
+Hex 0x16895 || Decimal 92309 || Character 𖢕 
+Hex 0x16896 || Decimal 92310 || Character 𖢖 
+Hex 0x16897 || Decimal 92311 || Character 𖢗 
+Hex 0x16898 || Decimal 92312 || Character 𖢘 
+Hex 0x16899 || Decimal 92313 || Character 𖢙 
+Hex 0x1689a || Decimal 92314 || Character 𖢚 
+Hex 0x1689b || Decimal 92315 || Character 𖢛 
+Hex 0x1689c || Decimal 92316 || Character 𖢜 
+Hex 0x1689d || Decimal 92317 || Character 𖢝 
+Hex 0x1689e || Decimal 92318 || Character 𖢞 
+Hex 0x1689f || Decimal 92319 || Character 𖢟 
+Hex 0x168a0 || Decimal 92320 || Character 𖢠 
+Hex 0x168a1 || Decimal 92321 || Character 𖢡 
+Hex 0x168a2 || Decimal 92322 || Character 𖢢 
+Hex 0x168a3 || Decimal 92323 || Character 𖢣 
+Hex 0x168a4 || Decimal 92324 || Character 𖢤 
+Hex 0x168a5 || Decimal 92325 || Character 𖢥 
+Hex 0x168a6 || Decimal 92326 || Character 𖢦 
+Hex 0x168a7 || Decimal 92327 || Character 𖢧 
+Hex 0x168a8 || Decimal 92328 || Character 𖢨 
+Hex 0x168a9 || Decimal 92329 || Character 𖢩 
+Hex 0x168aa || Decimal 92330 || Character 𖢪 
+Hex 0x168ab || Decimal 92331 || Character 𖢫 
+Hex 0x168ac || Decimal 92332 || Character 𖢬 
+Hex 0x168ad || Decimal 92333 || Character 𖢭 
+Hex 0x168ae || Decimal 92334 || Character 𖢮 
+Hex 0x168af || Decimal 92335 || Character 𖢯 
+Hex 0x168b0 || Decimal 92336 || Character 𖢰 
+Hex 0x168b1 || Decimal 92337 || Character 𖢱 
+Hex 0x168b2 || Decimal 92338 || Character 𖢲 
+Hex 0x168b3 || Decimal 92339 || Character 𖢳 
+Hex 0x168b4 || Decimal 92340 || Character 𖢴 
+Hex 0x168b5 || Decimal 92341 || Character 𖢵 
+Hex 0x168b6 || Decimal 92342 || Character 𖢶 
+Hex 0x168b7 || Decimal 92343 || Character 𖢷 
+Hex 0x168b8 || Decimal 92344 || Character 𖢸 
+Hex 0x168b9 || Decimal 92345 || Character 𖢹 
+Hex 0x168ba || Decimal 92346 || Character 𖢺 
+Hex 0x168bb || Decimal 92347 || Character 𖢻 
+Hex 0x168bc || Decimal 92348 || Character 𖢼 
+Hex 0x168bd || Decimal 92349 || Character 𖢽 
+Hex 0x168be || Decimal 92350 || Character 𖢾 
+Hex 0x168bf || Decimal 92351 || Character 𖢿 
+Hex 0x168c0 || Decimal 92352 || Character 𖣀 
+Hex 0x168c1 || Decimal 92353 || Character 𖣁 
+Hex 0x168c2 || Decimal 92354 || Character 𖣂 
+Hex 0x168c3 || Decimal 92355 || Character 𖣃 
+Hex 0x168c4 || Decimal 92356 || Character 𖣄 
+Hex 0x168c5 || Decimal 92357 || Character 𖣅 
+Hex 0x168c6 || Decimal 92358 || Character 𖣆 
+Hex 0x168c7 || Decimal 92359 || Character 𖣇 
+Hex 0x168c8 || Decimal 92360 || Character 𖣈 
+Hex 0x168c9 || Decimal 92361 || Character 𖣉 
+Hex 0x168ca || Decimal 92362 || Character 𖣊 
+Hex 0x168cb || Decimal 92363 || Character 𖣋 
+Hex 0x168cc || Decimal 92364 || Character 𖣌 
+Hex 0x168cd || Decimal 92365 || Character 𖣍 
+Hex 0x168ce || Decimal 92366 || Character 𖣎 
+Hex 0x168cf || Decimal 92367 || Character 𖣏 
+Hex 0x168d0 || Decimal 92368 || Character 𖣐 
+Hex 0x168d1 || Decimal 92369 || Character 𖣑 
+Hex 0x168d2 || Decimal 92370 || Character 𖣒 
+Hex 0x168d3 || Decimal 92371 || Character 𖣓 
+Hex 0x168d4 || Decimal 92372 || Character 𖣔 
+Hex 0x168d5 || Decimal 92373 || Character 𖣕 
+Hex 0x168d6 || Decimal 92374 || Character 𖣖 
+Hex 0x168d7 || Decimal 92375 || Character 𖣗 
+Hex 0x168d8 || Decimal 92376 || Character 𖣘 
+Hex 0x168d9 || Decimal 92377 || Character 𖣙 
+Hex 0x168da || Decimal 92378 || Character 𖣚 
+Hex 0x168db || Decimal 92379 || Character 𖣛 
+Hex 0x168dc || Decimal 92380 || Character 𖣜 
+Hex 0x168dd || Decimal 92381 || Character 𖣝 
+Hex 0x168de || Decimal 92382 || Character 𖣞 
+Hex 0x168df || Decimal 92383 || Character 𖣟 
+Hex 0x168e0 || Decimal 92384 || Character 𖣠 
+Hex 0x168e1 || Decimal 92385 || Character 𖣡 
+Hex 0x168e2 || Decimal 92386 || Character 𖣢 
+Hex 0x168e3 || Decimal 92387 || Character 𖣣 
+Hex 0x168e4 || Decimal 92388 || Character 𖣤 
+Hex 0x168e5 || Decimal 92389 || Character 𖣥 
+Hex 0x168e6 || Decimal 92390 || Character 𖣦 
+Hex 0x168e7 || Decimal 92391 || Character 𖣧 
+Hex 0x168e8 || Decimal 92392 || Character 𖣨 
+Hex 0x168e9 || Decimal 92393 || Character 𖣩 
+Hex 0x168ea || Decimal 92394 || Character 𖣪 
+Hex 0x168eb || Decimal 92395 || Character 𖣫 
+Hex 0x168ec || Decimal 92396 || Character 𖣬 
+Hex 0x168ed || Decimal 92397 || Character 𖣭 
+Hex 0x168ee || Decimal 92398 || Character 𖣮 
+Hex 0x168ef || Decimal 92399 || Character 𖣯 
+Hex 0x168f0 || Decimal 92400 || Character 𖣰 
+Hex 0x168f1 || Decimal 92401 || Character 𖣱 
+Hex 0x168f2 || Decimal 92402 || Character 𖣲 
+Hex 0x168f3 || Decimal 92403 || Character 𖣳 
+Hex 0x168f4 || Decimal 92404 || Character 𖣴 
+Hex 0x168f5 || Decimal 92405 || Character 𖣵 
+Hex 0x168f6 || Decimal 92406 || Character 𖣶 
+Hex 0x168f7 || Decimal 92407 || Character 𖣷 
+Hex 0x168f8 || Decimal 92408 || Character 𖣸 
+Hex 0x168f9 || Decimal 92409 || Character 𖣹 
+Hex 0x168fa || Decimal 92410 || Character 𖣺 
+Hex 0x168fb || Decimal 92411 || Character 𖣻 
+Hex 0x168fc || Decimal 92412 || Character 𖣼 
+Hex 0x168fd || Decimal 92413 || Character 𖣽 
+Hex 0x168fe || Decimal 92414 || Character 𖣾 
+Hex 0x168ff || Decimal 92415 || Character 𖣿 
+Hex 0x16900 || Decimal 92416 || Character 𖤀 
+Hex 0x16901 || Decimal 92417 || Character 𖤁 
+Hex 0x16902 || Decimal 92418 || Character 𖤂 
+Hex 0x16903 || Decimal 92419 || Character 𖤃 
+Hex 0x16904 || Decimal 92420 || Character 𖤄 
+Hex 0x16905 || Decimal 92421 || Character 𖤅 
+Hex 0x16906 || Decimal 92422 || Character 𖤆 
+Hex 0x16907 || Decimal 92423 || Character 𖤇 
+Hex 0x16908 || Decimal 92424 || Character 𖤈 
+Hex 0x16909 || Decimal 92425 || Character 𖤉 
+Hex 0x1690a || Decimal 92426 || Character 𖤊 
+Hex 0x1690b || Decimal 92427 || Character 𖤋 
+Hex 0x1690c || Decimal 92428 || Character 𖤌 
+Hex 0x1690d || Decimal 92429 || Character 𖤍 
+Hex 0x1690e || Decimal 92430 || Character 𖤎 
+Hex 0x1690f || Decimal 92431 || Character 𖤏 
+Hex 0x16910 || Decimal 92432 || Character 𖤐 
+Hex 0x16911 || Decimal 92433 || Character 𖤑 
+Hex 0x16912 || Decimal 92434 || Character 𖤒 
+Hex 0x16913 || Decimal 92435 || Character 𖤓 
+Hex 0x16914 || Decimal 92436 || Character 𖤔 
+Hex 0x16915 || Decimal 92437 || Character 𖤕 
+Hex 0x16916 || Decimal 92438 || Character 𖤖 
+Hex 0x16917 || Decimal 92439 || Character 𖤗 
+Hex 0x16918 || Decimal 92440 || Character 𖤘 
+Hex 0x16919 || Decimal 92441 || Character 𖤙 
+Hex 0x1691a || Decimal 92442 || Character 𖤚 
+Hex 0x1691b || Decimal 92443 || Character 𖤛 
+Hex 0x1691c || Decimal 92444 || Character 𖤜 
+Hex 0x1691d || Decimal 92445 || Character 𖤝 
+Hex 0x1691e || Decimal 92446 || Character 𖤞 
+Hex 0x1691f || Decimal 92447 || Character 𖤟 
+Hex 0x16920 || Decimal 92448 || Character 𖤠 
+Hex 0x16921 || Decimal 92449 || Character 𖤡 
+Hex 0x16922 || Decimal 92450 || Character 𖤢 
+Hex 0x16923 || Decimal 92451 || Character 𖤣 
+Hex 0x16924 || Decimal 92452 || Character 𖤤 
+Hex 0x16925 || Decimal 92453 || Character 𖤥 
+Hex 0x16926 || Decimal 92454 || Character 𖤦 
+Hex 0x16927 || Decimal 92455 || Character 𖤧 
+Hex 0x16928 || Decimal 92456 || Character 𖤨 
+Hex 0x16929 || Decimal 92457 || Character 𖤩 
+Hex 0x1692a || Decimal 92458 || Character 𖤪 
+Hex 0x1692b || Decimal 92459 || Character 𖤫 
+Hex 0x1692c || Decimal 92460 || Character 𖤬 
+Hex 0x1692d || Decimal 92461 || Character 𖤭 
+Hex 0x1692e || Decimal 92462 || Character 𖤮 
+Hex 0x1692f || Decimal 92463 || Character 𖤯 
+Hex 0x16930 || Decimal 92464 || Character 𖤰 
+Hex 0x16931 || Decimal 92465 || Character 𖤱 
+Hex 0x16932 || Decimal 92466 || Character 𖤲 
+Hex 0x16933 || Decimal 92467 || Character 𖤳 
+Hex 0x16934 || Decimal 92468 || Character 𖤴 
+Hex 0x16935 || Decimal 92469 || Character 𖤵 
+Hex 0x16936 || Decimal 92470 || Character 𖤶 
+Hex 0x16937 || Decimal 92471 || Character 𖤷 
+Hex 0x16938 || Decimal 92472 || Character 𖤸 
+Hex 0x16939 || Decimal 92473 || Character 𖤹 
+Hex 0x1693a || Decimal 92474 || Character 𖤺 
+Hex 0x1693b || Decimal 92475 || Character 𖤻 
+Hex 0x1693c || Decimal 92476 || Character 𖤼 
+Hex 0x1693d || Decimal 92477 || Character 𖤽 
+Hex 0x1693e || Decimal 92478 || Character 𖤾 
+Hex 0x1693f || Decimal 92479 || Character 𖤿 
+Hex 0x16940 || Decimal 92480 || Character 𖥀 
+Hex 0x16941 || Decimal 92481 || Character 𖥁 
+Hex 0x16942 || Decimal 92482 || Character 𖥂 
+Hex 0x16943 || Decimal 92483 || Character 𖥃 
+Hex 0x16944 || Decimal 92484 || Character 𖥄 
+Hex 0x16945 || Decimal 92485 || Character 𖥅 
+Hex 0x16946 || Decimal 92486 || Character 𖥆 
+Hex 0x16947 || Decimal 92487 || Character 𖥇 
+Hex 0x16948 || Decimal 92488 || Character 𖥈 
+Hex 0x16949 || Decimal 92489 || Character 𖥉 
+Hex 0x1694a || Decimal 92490 || Character 𖥊 
+Hex 0x1694b || Decimal 92491 || Character 𖥋 
+Hex 0x1694c || Decimal 92492 || Character 𖥌 
+Hex 0x1694d || Decimal 92493 || Character 𖥍 
+Hex 0x1694e || Decimal 92494 || Character 𖥎 
+Hex 0x1694f || Decimal 92495 || Character 𖥏 
+Hex 0x16950 || Decimal 92496 || Character 𖥐 
+Hex 0x16951 || Decimal 92497 || Character 𖥑 
+Hex 0x16952 || Decimal 92498 || Character 𖥒 
+Hex 0x16953 || Decimal 92499 || Character 𖥓 
+Hex 0x16954 || Decimal 92500 || Character 𖥔 
+Hex 0x16955 || Decimal 92501 || Character 𖥕 
+Hex 0x16956 || Decimal 92502 || Character 𖥖 
+Hex 0x16957 || Decimal 92503 || Character 𖥗 
+Hex 0x16958 || Decimal 92504 || Character 𖥘 
+Hex 0x16959 || Decimal 92505 || Character 𖥙 
+Hex 0x1695a || Decimal 92506 || Character 𖥚 
+Hex 0x1695b || Decimal 92507 || Character 𖥛 
+Hex 0x1695c || Decimal 92508 || Character 𖥜 
+Hex 0x1695d || Decimal 92509 || Character 𖥝 
+Hex 0x1695e || Decimal 92510 || Character 𖥞 
+Hex 0x1695f || Decimal 92511 || Character 𖥟 
+Hex 0x16960 || Decimal 92512 || Character 𖥠 
+Hex 0x16961 || Decimal 92513 || Character 𖥡 
+Hex 0x16962 || Decimal 92514 || Character 𖥢 
+Hex 0x16963 || Decimal 92515 || Character 𖥣 
+Hex 0x16964 || Decimal 92516 || Character 𖥤 
+Hex 0x16965 || Decimal 92517 || Character 𖥥 
+Hex 0x16966 || Decimal 92518 || Character 𖥦 
+Hex 0x16967 || Decimal 92519 || Character 𖥧 
+Hex 0x16968 || Decimal 92520 || Character 𖥨 
+Hex 0x16969 || Decimal 92521 || Character 𖥩 
+Hex 0x1696a || Decimal 92522 || Character 𖥪 
+Hex 0x1696b || Decimal 92523 || Character 𖥫 
+Hex 0x1696c || Decimal 92524 || Character 𖥬 
+Hex 0x1696d || Decimal 92525 || Character 𖥭 
+Hex 0x1696e || Decimal 92526 || Character 𖥮 
+Hex 0x1696f || Decimal 92527 || Character 𖥯 
+Hex 0x16970 || Decimal 92528 || Character 𖥰 
+Hex 0x16971 || Decimal 92529 || Character 𖥱 
+Hex 0x16972 || Decimal 92530 || Character 𖥲 
+Hex 0x16973 || Decimal 92531 || Character 𖥳 
+Hex 0x16974 || Decimal 92532 || Character 𖥴 
+Hex 0x16975 || Decimal 92533 || Character 𖥵 
+Hex 0x16976 || Decimal 92534 || Character 𖥶 
+Hex 0x16977 || Decimal 92535 || Character 𖥷 
+Hex 0x16978 || Decimal 92536 || Character 𖥸 
+Hex 0x16979 || Decimal 92537 || Character 𖥹 
+Hex 0x1697a || Decimal 92538 || Character 𖥺 
+Hex 0x1697b || Decimal 92539 || Character 𖥻 
+Hex 0x1697c || Decimal 92540 || Character 𖥼 
+Hex 0x1697d || Decimal 92541 || Character 𖥽 
+Hex 0x1697e || Decimal 92542 || Character 𖥾 
+Hex 0x1697f || Decimal 92543 || Character 𖥿 
+Hex 0x16980 || Decimal 92544 || Character 𖦀 
+Hex 0x16981 || Decimal 92545 || Character 𖦁 
+Hex 0x16982 || Decimal 92546 || Character 𖦂 
+Hex 0x16983 || Decimal 92547 || Character 𖦃 
+Hex 0x16984 || Decimal 92548 || Character 𖦄 
+Hex 0x16985 || Decimal 92549 || Character 𖦅 
+Hex 0x16986 || Decimal 92550 || Character 𖦆 
+Hex 0x16987 || Decimal 92551 || Character 𖦇 
+Hex 0x16988 || Decimal 92552 || Character 𖦈 
+Hex 0x16989 || Decimal 92553 || Character 𖦉 
+Hex 0x1698a || Decimal 92554 || Character 𖦊 
+Hex 0x1698b || Decimal 92555 || Character 𖦋 
+Hex 0x1698c || Decimal 92556 || Character 𖦌 
+Hex 0x1698d || Decimal 92557 || Character 𖦍 
+Hex 0x1698e || Decimal 92558 || Character 𖦎 
+Hex 0x1698f || Decimal 92559 || Character 𖦏 
+Hex 0x16990 || Decimal 92560 || Character 𖦐 
+Hex 0x16991 || Decimal 92561 || Character 𖦑 
+Hex 0x16992 || Decimal 92562 || Character 𖦒 
+Hex 0x16993 || Decimal 92563 || Character 𖦓 
+Hex 0x16994 || Decimal 92564 || Character 𖦔 
+Hex 0x16995 || Decimal 92565 || Character 𖦕 
+Hex 0x16996 || Decimal 92566 || Character 𖦖 
+Hex 0x16997 || Decimal 92567 || Character 𖦗 
+Hex 0x16998 || Decimal 92568 || Character 𖦘 
+Hex 0x16999 || Decimal 92569 || Character 𖦙 
+Hex 0x1699a || Decimal 92570 || Character 𖦚 
+Hex 0x1699b || Decimal 92571 || Character 𖦛 
+Hex 0x1699c || Decimal 92572 || Character 𖦜 
+Hex 0x1699d || Decimal 92573 || Character 𖦝 
+Hex 0x1699e || Decimal 92574 || Character 𖦞 
+Hex 0x1699f || Decimal 92575 || Character 𖦟 
+Hex 0x169a0 || Decimal 92576 || Character 𖦠 
+Hex 0x169a1 || Decimal 92577 || Character 𖦡 
+Hex 0x169a2 || Decimal 92578 || Character 𖦢 
+Hex 0x169a3 || Decimal 92579 || Character 𖦣 
+Hex 0x169a4 || Decimal 92580 || Character 𖦤 
+Hex 0x169a5 || Decimal 92581 || Character 𖦥 
+Hex 0x169a6 || Decimal 92582 || Character 𖦦 
+Hex 0x169a7 || Decimal 92583 || Character 𖦧 
+Hex 0x169a8 || Decimal 92584 || Character 𖦨 
+Hex 0x169a9 || Decimal 92585 || Character 𖦩 
+Hex 0x169aa || Decimal 92586 || Character 𖦪 
+Hex 0x169ab || Decimal 92587 || Character 𖦫 
+Hex 0x169ac || Decimal 92588 || Character 𖦬 
+Hex 0x169ad || Decimal 92589 || Character 𖦭 
+Hex 0x169ae || Decimal 92590 || Character 𖦮 
+Hex 0x169af || Decimal 92591 || Character 𖦯 
+Hex 0x169b0 || Decimal 92592 || Character 𖦰 
+Hex 0x169b1 || Decimal 92593 || Character 𖦱 
+Hex 0x169b2 || Decimal 92594 || Character 𖦲 
+Hex 0x169b3 || Decimal 92595 || Character 𖦳 
+Hex 0x169b4 || Decimal 92596 || Character 𖦴 
+Hex 0x169b5 || Decimal 92597 || Character 𖦵 
+Hex 0x169b6 || Decimal 92598 || Character 𖦶 
+Hex 0x169b7 || Decimal 92599 || Character 𖦷 
+Hex 0x169b8 || Decimal 92600 || Character 𖦸 
+Hex 0x169b9 || Decimal 92601 || Character 𖦹 
+Hex 0x169ba || Decimal 92602 || Character 𖦺 
+Hex 0x169bb || Decimal 92603 || Character 𖦻 
+Hex 0x169bc || Decimal 92604 || Character 𖦼 
+Hex 0x169bd || Decimal 92605 || Character 𖦽 
+Hex 0x169be || Decimal 92606 || Character 𖦾 
+Hex 0x169bf || Decimal 92607 || Character 𖦿 
+Hex 0x169c0 || Decimal 92608 || Character 𖧀 
+Hex 0x169c1 || Decimal 92609 || Character 𖧁 
+Hex 0x169c2 || Decimal 92610 || Character 𖧂 
+Hex 0x169c3 || Decimal 92611 || Character 𖧃 
+Hex 0x169c4 || Decimal 92612 || Character 𖧄 
+Hex 0x169c5 || Decimal 92613 || Character 𖧅 
+Hex 0x169c6 || Decimal 92614 || Character 𖧆 
+Hex 0x169c7 || Decimal 92615 || Character 𖧇 
+Hex 0x169c8 || Decimal 92616 || Character 𖧈 
+Hex 0x169c9 || Decimal 92617 || Character 𖧉 
+Hex 0x169ca || Decimal 92618 || Character 𖧊 
+Hex 0x169cb || Decimal 92619 || Character 𖧋 
+Hex 0x169cc || Decimal 92620 || Character 𖧌 
+Hex 0x169cd || Decimal 92621 || Character 𖧍 
+Hex 0x169ce || Decimal 92622 || Character 𖧎 
+Hex 0x169cf || Decimal 92623 || Character 𖧏 
+Hex 0x169d0 || Decimal 92624 || Character 𖧐 
+Hex 0x169d1 || Decimal 92625 || Character 𖧑 
+Hex 0x169d2 || Decimal 92626 || Character 𖧒 
+Hex 0x169d3 || Decimal 92627 || Character 𖧓 
+Hex 0x169d4 || Decimal 92628 || Character 𖧔 
+Hex 0x169d5 || Decimal 92629 || Character 𖧕 
+Hex 0x169d6 || Decimal 92630 || Character 𖧖 
+Hex 0x169d7 || Decimal 92631 || Character 𖧗 
+Hex 0x169d8 || Decimal 92632 || Character 𖧘 
+Hex 0x169d9 || Decimal 92633 || Character 𖧙 
+Hex 0x169da || Decimal 92634 || Character 𖧚 
+Hex 0x169db || Decimal 92635 || Character 𖧛 
+Hex 0x169dc || Decimal 92636 || Character 𖧜 
+Hex 0x169dd || Decimal 92637 || Character 𖧝 
+Hex 0x169de || Decimal 92638 || Character 𖧞 
+Hex 0x169df || Decimal 92639 || Character 𖧟 
+Hex 0x169e0 || Decimal 92640 || Character 𖧠 
+Hex 0x169e1 || Decimal 92641 || Character 𖧡 
+Hex 0x169e2 || Decimal 92642 || Character 𖧢 
+Hex 0x169e3 || Decimal 92643 || Character 𖧣 
+Hex 0x169e4 || Decimal 92644 || Character 𖧤 
+Hex 0x169e5 || Decimal 92645 || Character 𖧥 
+Hex 0x169e6 || Decimal 92646 || Character 𖧦 
+Hex 0x169e7 || Decimal 92647 || Character 𖧧 
+Hex 0x169e8 || Decimal 92648 || Character 𖧨 
+Hex 0x169e9 || Decimal 92649 || Character 𖧩 
+Hex 0x169ea || Decimal 92650 || Character 𖧪 
+Hex 0x169eb || Decimal 92651 || Character 𖧫 
+Hex 0x169ec || Decimal 92652 || Character 𖧬 
+Hex 0x169ed || Decimal 92653 || Character 𖧭 
+Hex 0x169ee || Decimal 92654 || Character 𖧮 
+Hex 0x169ef || Decimal 92655 || Character 𖧯 
+Hex 0x169f0 || Decimal 92656 || Character 𖧰 
+Hex 0x169f1 || Decimal 92657 || Character 𖧱 
+Hex 0x169f2 || Decimal 92658 || Character 𖧲 
+Hex 0x169f3 || Decimal 92659 || Character 𖧳 
+Hex 0x169f4 || Decimal 92660 || Character 𖧴 
+Hex 0x169f5 || Decimal 92661 || Character 𖧵 
+Hex 0x169f6 || Decimal 92662 || Character 𖧶 
+Hex 0x169f7 || Decimal 92663 || Character 𖧷 
+Hex 0x169f8 || Decimal 92664 || Character 𖧸 
+Hex 0x169f9 || Decimal 92665 || Character 𖧹 
+Hex 0x169fa || Decimal 92666 || Character 𖧺 
+Hex 0x169fb || Decimal 92667 || Character 𖧻 
+Hex 0x169fc || Decimal 92668 || Character 𖧼 
+Hex 0x169fd || Decimal 92669 || Character 𖧽 
+Hex 0x169fe || Decimal 92670 || Character 𖧾 
+Hex 0x169ff || Decimal 92671 || Character 𖧿 
+Hex 0x16a00 || Decimal 92672 || Character 𖨀 
+Hex 0x16a01 || Decimal 92673 || Character 𖨁 
+Hex 0x16a02 || Decimal 92674 || Character 𖨂 
+Hex 0x16a03 || Decimal 92675 || Character 𖨃 
+Hex 0x16a04 || Decimal 92676 || Character 𖨄 
+Hex 0x16a05 || Decimal 92677 || Character 𖨅 
+Hex 0x16a06 || Decimal 92678 || Character 𖨆 
+Hex 0x16a07 || Decimal 92679 || Character 𖨇 
+Hex 0x16a08 || Decimal 92680 || Character 𖨈 
+Hex 0x16a09 || Decimal 92681 || Character 𖨉 
+Hex 0x16a0a || Decimal 92682 || Character 𖨊 
+Hex 0x16a0b || Decimal 92683 || Character 𖨋 
+Hex 0x16a0c || Decimal 92684 || Character 𖨌 
+Hex 0x16a0d || Decimal 92685 || Character 𖨍 
+Hex 0x16a0e || Decimal 92686 || Character 𖨎 
+Hex 0x16a0f || Decimal 92687 || Character 𖨏 
+Hex 0x16a10 || Decimal 92688 || Character 𖨐 
+Hex 0x16a11 || Decimal 92689 || Character 𖨑 
+Hex 0x16a12 || Decimal 92690 || Character 𖨒 
+Hex 0x16a13 || Decimal 92691 || Character 𖨓 
+Hex 0x16a14 || Decimal 92692 || Character 𖨔 
+Hex 0x16a15 || Decimal 92693 || Character 𖨕 
+Hex 0x16a16 || Decimal 92694 || Character 𖨖 
+Hex 0x16a17 || Decimal 92695 || Character 𖨗 
+Hex 0x16a18 || Decimal 92696 || Character 𖨘 
+Hex 0x16a19 || Decimal 92697 || Character 𖨙 
+Hex 0x16a1a || Decimal 92698 || Character 𖨚 
+Hex 0x16a1b || Decimal 92699 || Character 𖨛 
+Hex 0x16a1c || Decimal 92700 || Character 𖨜 
+Hex 0x16a1d || Decimal 92701 || Character 𖨝 
+Hex 0x16a1e || Decimal 92702 || Character 𖨞 
+Hex 0x16a1f || Decimal 92703 || Character 𖨟 
+Hex 0x16a20 || Decimal 92704 || Character 𖨠 
+Hex 0x16a21 || Decimal 92705 || Character 𖨡 
+Hex 0x16a22 || Decimal 92706 || Character 𖨢 
+Hex 0x16a23 || Decimal 92707 || Character 𖨣 
+Hex 0x16a24 || Decimal 92708 || Character 𖨤 
+Hex 0x16a25 || Decimal 92709 || Character 𖨥 
+Hex 0x16a26 || Decimal 92710 || Character 𖨦 
+Hex 0x16a27 || Decimal 92711 || Character 𖨧 
+Hex 0x16a28 || Decimal 92712 || Character 𖨨 
+Hex 0x16a29 || Decimal 92713 || Character 𖨩 
+Hex 0x16a2a || Decimal 92714 || Character 𖨪 
+Hex 0x16a2b || Decimal 92715 || Character 𖨫 
+Hex 0x16a2c || Decimal 92716 || Character 𖨬 
+Hex 0x16a2d || Decimal 92717 || Character 𖨭 
+Hex 0x16a2e || Decimal 92718 || Character 𖨮 
+Hex 0x16a2f || Decimal 92719 || Character 𖨯 
+Hex 0x16a30 || Decimal 92720 || Character 𖨰 
+Hex 0x16a31 || Decimal 92721 || Character 𖨱 
+Hex 0x16a32 || Decimal 92722 || Character 𖨲 
+Hex 0x16a33 || Decimal 92723 || Character 𖨳 
+Hex 0x16a34 || Decimal 92724 || Character 𖨴 
+Hex 0x16a35 || Decimal 92725 || Character 𖨵 
+Hex 0x16a36 || Decimal 92726 || Character 𖨶 
+Hex 0x16a37 || Decimal 92727 || Character 𖨷 
+Hex 0x16a38 || Decimal 92728 || Character 𖨸 
+Hex 0x16a39 || Decimal 92729 || Character 𖨹 
+Hex 0x16a3a || Decimal 92730 || Character 𖨺 
+Hex 0x16a3b || Decimal 92731 || Character 𖨻 
+Hex 0x16a3c || Decimal 92732 || Character 𖨼 
+Hex 0x16a3d || Decimal 92733 || Character 𖨽 
+Hex 0x16a3e || Decimal 92734 || Character 𖨾 
+Hex 0x16a3f || Decimal 92735 || Character 𖨿 

@@ -1,0 +1,6 @@
+import json
+imp
+
+f = open('librarything_lsky2061.json')
+
+catalog = json.load(f)

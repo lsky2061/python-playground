@@ -1,0 +1,16 @@
+Hex 0xfe10 || Decimal 65040 || Character ︐ 
+Hex 0xfe11 || Decimal 65041 || Character ︑ 
+Hex 0xfe12 || Decimal 65042 || Character ︒ 
+Hex 0xfe13 || Decimal 65043 || Character ︓ 
+Hex 0xfe14 || Decimal 65044 || Character ︔ 
+Hex 0xfe15 || Decimal 65045 || Character ︕ 
+Hex 0xfe16 || Decimal 65046 || Character ︖ 
+Hex 0xfe17 || Decimal 65047 || Character ︗ 
+Hex 0xfe18 || Decimal 65048 || Character ︘ 
+Hex 0xfe19 || Decimal 65049 || Character ︙ 
+Hex 0xfe1a || Decimal 65050 || Character ︚ 
+Hex 0xfe1b || Decimal 65051 || Character ︛ 
+Hex 0xfe1c || Decimal 65052 || Character ︜ 
+Hex 0xfe1d || Decimal 65053 || Character ︝ 
+Hex 0xfe1e || Decimal 65054 || Character ︞ 
+Hex 0xfe1f || Decimal 65055 || Character ︟ 

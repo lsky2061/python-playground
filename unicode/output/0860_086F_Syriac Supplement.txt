@@ -1,0 +1,16 @@
+Hex 0x860 || Decimal 2144 || Character ࡠ 
+Hex 0x861 || Decimal 2145 || Character ࡡ 
+Hex 0x862 || Decimal 2146 || Character ࡢ 
+Hex 0x863 || Decimal 2147 || Character ࡣ 
+Hex 0x864 || Decimal 2148 || Character ࡤ 
+Hex 0x865 || Decimal 2149 || Character ࡥ 
+Hex 0x866 || Decimal 2150 || Character ࡦ 
+Hex 0x867 || Decimal 2151 || Character ࡧ 
+Hex 0x868 || Decimal 2152 || Character ࡨ 
+Hex 0x869 || Decimal 2153 || Character ࡩ 
+Hex 0x86a || Decimal 2154 || Character ࡪ 
+Hex 0x86b || Decimal 2155 || Character ࡫ 
+Hex 0x86c || Decimal 2156 || Character ࡬ 
+Hex 0x86d || Decimal 2157 || Character ࡭ 
+Hex 0x86e || Decimal 2158 || Character ࡮ 
+Hex 0x86f || Decimal 2159 || Character ࡯ 

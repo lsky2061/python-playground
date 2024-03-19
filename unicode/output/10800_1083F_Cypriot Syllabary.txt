@@ -1,0 +1,64 @@
+Hex 0x10800 || Decimal 67584 || Character 𐠀 
+Hex 0x10801 || Decimal 67585 || Character 𐠁 
+Hex 0x10802 || Decimal 67586 || Character 𐠂 
+Hex 0x10803 || Decimal 67587 || Character 𐠃 
+Hex 0x10804 || Decimal 67588 || Character 𐠄 
+Hex 0x10805 || Decimal 67589 || Character 𐠅 
+Hex 0x10806 || Decimal 67590 || Character 𐠆 
+Hex 0x10807 || Decimal 67591 || Character 𐠇 
+Hex 0x10808 || Decimal 67592 || Character 𐠈 
+Hex 0x10809 || Decimal 67593 || Character 𐠉 
+Hex 0x1080a || Decimal 67594 || Character 𐠊 
+Hex 0x1080b || Decimal 67595 || Character 𐠋 
+Hex 0x1080c || Decimal 67596 || Character 𐠌 
+Hex 0x1080d || Decimal 67597 || Character 𐠍 
+Hex 0x1080e || Decimal 67598 || Character 𐠎 
+Hex 0x1080f || Decimal 67599 || Character 𐠏 
+Hex 0x10810 || Decimal 67600 || Character 𐠐 
+Hex 0x10811 || Decimal 67601 || Character 𐠑 
+Hex 0x10812 || Decimal 67602 || Character 𐠒 
+Hex 0x10813 || Decimal 67603 || Character 𐠓 
+Hex 0x10814 || Decimal 67604 || Character 𐠔 
+Hex 0x10815 || Decimal 67605 || Character 𐠕 
+Hex 0x10816 || Decimal 67606 || Character 𐠖 
+Hex 0x10817 || Decimal 67607 || Character 𐠗 
+Hex 0x10818 || Decimal 67608 || Character 𐠘 
+Hex 0x10819 || Decimal 67609 || Character 𐠙 
+Hex 0x1081a || Decimal 67610 || Character 𐠚 
+Hex 0x1081b || Decimal 67611 || Character 𐠛 
+Hex 0x1081c || Decimal 67612 || Character 𐠜 
+Hex 0x1081d || Decimal 67613 || Character 𐠝 
+Hex 0x1081e || Decimal 67614 || Character 𐠞 
+Hex 0x1081f || Decimal 67615 || Character 𐠟 
+Hex 0x10820 || Decimal 67616 || Character 𐠠 
+Hex 0x10821 || Decimal 67617 || Character 𐠡 
+Hex 0x10822 || Decimal 67618 || Character 𐠢 
+Hex 0x10823 || Decimal 67619 || Character 𐠣 
+Hex 0x10824 || Decimal 67620 || Character 𐠤 
+Hex 0x10825 || Decimal 67621 || Character 𐠥 
+Hex 0x10826 || Decimal 67622 || Character 𐠦 
+Hex 0x10827 || Decimal 67623 || Character 𐠧 
+Hex 0x10828 || Decimal 67624 || Character 𐠨 
+Hex 0x10829 || Decimal 67625 || Character 𐠩 
+Hex 0x1082a || Decimal 67626 || Character 𐠪 
+Hex 0x1082b || Decimal 67627 || Character 𐠫 
+Hex 0x1082c || Decimal 67628 || Character 𐠬 
+Hex 0x1082d || Decimal 67629 || Character 𐠭 
+Hex 0x1082e || Decimal 67630 || Character 𐠮 
+Hex 0x1082f || Decimal 67631 || Character 𐠯 
+Hex 0x10830 || Decimal 67632 || Character 𐠰 
+Hex 0x10831 || Decimal 67633 || Character 𐠱 
+Hex 0x10832 || Decimal 67634 || Character 𐠲 
+Hex 0x10833 || Decimal 67635 || Character 𐠳 
+Hex 0x10834 || Decimal 67636 || Character 𐠴 
+Hex 0x10835 || Decimal 67637 || Character 𐠵 
+Hex 0x10836 || Decimal 67638 || Character 𐠶 
+Hex 0x10837 || Decimal 67639 || Character 𐠷 
+Hex 0x10838 || Decimal 67640 || Character 𐠸 
+Hex 0x10839 || Decimal 67641 || Character 𐠹 
+Hex 0x1083a || Decimal 67642 || Character 𐠺 
+Hex 0x1083b || Decimal 67643 || Character 𐠻 
+Hex 0x1083c || Decimal 67644 || Character 𐠼 
+Hex 0x1083d || Decimal 67645 || Character 𐠽 
+Hex 0x1083e || Decimal 67646 || Character 𐠾 
+Hex 0x1083f || Decimal 67647 || Character 𐠿 

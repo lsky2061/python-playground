@@ -1,0 +1,80 @@
+Hex 0x11800 || Decimal 71680 || Character 𑠀 
+Hex 0x11801 || Decimal 71681 || Character 𑠁 
+Hex 0x11802 || Decimal 71682 || Character 𑠂 
+Hex 0x11803 || Decimal 71683 || Character 𑠃 
+Hex 0x11804 || Decimal 71684 || Character 𑠄 
+Hex 0x11805 || Decimal 71685 || Character 𑠅 
+Hex 0x11806 || Decimal 71686 || Character 𑠆 
+Hex 0x11807 || Decimal 71687 || Character 𑠇 
+Hex 0x11808 || Decimal 71688 || Character 𑠈 
+Hex 0x11809 || Decimal 71689 || Character 𑠉 
+Hex 0x1180a || Decimal 71690 || Character 𑠊 
+Hex 0x1180b || Decimal 71691 || Character 𑠋 
+Hex 0x1180c || Decimal 71692 || Character 𑠌 
+Hex 0x1180d || Decimal 71693 || Character 𑠍 
+Hex 0x1180e || Decimal 71694 || Character 𑠎 
+Hex 0x1180f || Decimal 71695 || Character 𑠏 
+Hex 0x11810 || Decimal 71696 || Character 𑠐 
+Hex 0x11811 || Decimal 71697 || Character 𑠑 
+Hex 0x11812 || Decimal 71698 || Character 𑠒 
+Hex 0x11813 || Decimal 71699 || Character 𑠓 
+Hex 0x11814 || Decimal 71700 || Character 𑠔 
+Hex 0x11815 || Decimal 71701 || Character 𑠕 
+Hex 0x11816 || Decimal 71702 || Character 𑠖 
+Hex 0x11817 || Decimal 71703 || Character 𑠗 
+Hex 0x11818 || Decimal 71704 || Character 𑠘 
+Hex 0x11819 || Decimal 71705 || Character 𑠙 
+Hex 0x1181a || Decimal 71706 || Character 𑠚 
+Hex 0x1181b || Decimal 71707 || Character 𑠛 
+Hex 0x1181c || Decimal 71708 || Character 𑠜 
+Hex 0x1181d || Decimal 71709 || Character 𑠝 
+Hex 0x1181e || Decimal 71710 || Character 𑠞 
+Hex 0x1181f || Decimal 71711 || Character 𑠟 
+Hex 0x11820 || Decimal 71712 || Character 𑠠 
+Hex 0x11821 || Decimal 71713 || Character 𑠡 
+Hex 0x11822 || Decimal 71714 || Character 𑠢 
+Hex 0x11823 || Decimal 71715 || Character 𑠣 
+Hex 0x11824 || Decimal 71716 || Character 𑠤 
+Hex 0x11825 || Decimal 71717 || Character 𑠥 
+Hex 0x11826 || Decimal 71718 || Character 𑠦 
+Hex 0x11827 || Decimal 71719 || Character 𑠧 
+Hex 0x11828 || Decimal 71720 || Character 𑠨 
+Hex 0x11829 || Decimal 71721 || Character 𑠩 
+Hex 0x1182a || Decimal 71722 || Character 𑠪 
+Hex 0x1182b || Decimal 71723 || Character 𑠫 
+Hex 0x1182c || Decimal 71724 || Character 𑠬 
+Hex 0x1182d || Decimal 71725 || Character 𑠭 
+Hex 0x1182e || Decimal 71726 || Character 𑠮 
+Hex 0x1182f || Decimal 71727 || Character 𑠯 
+Hex 0x11830 || Decimal 71728 || Character 𑠰 
+Hex 0x11831 || Decimal 71729 || Character 𑠱 
+Hex 0x11832 || Decimal 71730 || Character 𑠲 
+Hex 0x11833 || Decimal 71731 || Character 𑠳 
+Hex 0x11834 || Decimal 71732 || Character 𑠴 
+Hex 0x11835 || Decimal 71733 || Character 𑠵 
+Hex 0x11836 || Decimal 71734 || Character 𑠶 
+Hex 0x11837 || Decimal 71735 || Character 𑠷 
+Hex 0x11838 || Decimal 71736 || Character 𑠸 
+Hex 0x11839 || Decimal 71737 || Character 𑠹 
+Hex 0x1183a || Decimal 71738 || Character 𑠺 
+Hex 0x1183b || Decimal 71739 || Character 𑠻 
+Hex 0x1183c || Decimal 71740 || Character 𑠼 
+Hex 0x1183d || Decimal 71741 || Character 𑠽 
+Hex 0x1183e || Decimal 71742 || Character 𑠾 
+Hex 0x1183f || Decimal 71743 || Character 𑠿 
+Hex 0x11840 || Decimal 71744 || Character 𑡀 
+Hex 0x11841 || Decimal 71745 || Character 𑡁 
+Hex 0x11842 || Decimal 71746 || Character 𑡂 
+Hex 0x11843 || Decimal 71747 || Character 𑡃 
+Hex 0x11844 || Decimal 71748 || Character 𑡄 
+Hex 0x11845 || Decimal 71749 || Character 𑡅 
+Hex 0x11846 || Decimal 71750 || Character 𑡆 
+Hex 0x11847 || Decimal 71751 || Character 𑡇 
+Hex 0x11848 || Decimal 71752 || Character 𑡈 
+Hex 0x11849 || Decimal 71753 || Character 𑡉 
+Hex 0x1184a || Decimal 71754 || Character 𑡊 
+Hex 0x1184b || Decimal 71755 || Character 𑡋 
+Hex 0x1184c || Decimal 71756 || Character 𑡌 
+Hex 0x1184d || Decimal 71757 || Character 𑡍 
+Hex 0x1184e || Decimal 71758 || Character 𑡎 
+Hex 0x1184f || Decimal 71759 || Character 𑡏 

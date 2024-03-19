@@ -1,0 +1,112 @@
+Hex 0x2000 || Decimal 8192 || Character   
+Hex 0x2001 || Decimal 8193 || Character   
+Hex 0x2002 || Decimal 8194 || Character   
+Hex 0x2003 || Decimal 8195 || Character   
+Hex 0x2004 || Decimal 8196 || Character   
+Hex 0x2005 || Decimal 8197 || Character   
+Hex 0x2006 || Decimal 8198 || Character   
+Hex 0x2007 || Decimal 8199 || Character   
+Hex 0x2008 || Decimal 8200 || Character   
+Hex 0x2009 || Decimal 8201 || Character   
+Hex 0x200a || Decimal 8202 || Character   
+Hex 0x200b || Decimal 8203 || Character ​ 
+Hex 0x200c || Decimal 8204 || Character ‌ 
+Hex 0x200d || Decimal 8205 || Character ‍ 
+Hex 0x200e || Decimal 8206 || Character ‎ 
+Hex 0x200f || Decimal 8207 || Character ‏ 
+Hex 0x2010 || Decimal 8208 || Character ‐ 
+Hex 0x2011 || Decimal 8209 || Character ‑ 
+Hex 0x2012 || Decimal 8210 || Character ‒ 
+Hex 0x2013 || Decimal 8211 || Character – 
+Hex 0x2014 || Decimal 8212 || Character — 
+Hex 0x2015 || Decimal 8213 || Character ― 
+Hex 0x2016 || Decimal 8214 || Character ‖ 
+Hex 0x2017 || Decimal 8215 || Character ‗ 
+Hex 0x2018 || Decimal 8216 || Character ‘ 
+Hex 0x2019 || Decimal 8217 || Character ’ 
+Hex 0x201a || Decimal 8218 || Character ‚ 
+Hex 0x201b || Decimal 8219 || Character ‛ 
+Hex 0x201c || Decimal 8220 || Character “ 
+Hex 0x201d || Decimal 8221 || Character ” 
+Hex 0x201e || Decimal 8222 || Character „ 
+Hex 0x201f || Decimal 8223 || Character ‟ 
+Hex 0x2020 || Decimal 8224 || Character † 
+Hex 0x2021 || Decimal 8225 || Character ‡ 
+Hex 0x2022 || Decimal 8226 || Character • 
+Hex 0x2023 || Decimal 8227 || Character ‣ 
+Hex 0x2024 || Decimal 8228 || Character ․ 
+Hex 0x2025 || Decimal 8229 || Character ‥ 
+Hex 0x2026 || Decimal 8230 || Character … 
+Hex 0x2027 || Decimal 8231 || Character ‧ 
+Hex 0x2028 || Decimal 8232 || Character   
+Hex 0x2029 || Decimal 8233 || Character   
+Hex 0x202a || Decimal 8234 || Character ‪ 
+Hex 0x202b || Decimal 8235 || Character ‫ 
+Hex 0x202c || Decimal 8236 || Character ‬ 
+Hex 0x202d || Decimal 8237 || Character ‭ 
+Hex 0x202e || Decimal 8238 || Character ‮ 
+Hex 0x202f || Decimal 8239 || Character   
+Hex 0x2030 || Decimal 8240 || Character ‰ 
+Hex 0x2031 || Decimal 8241 || Character ‱ 
+Hex 0x2032 || Decimal 8242 || Character ′ 
+Hex 0x2033 || Decimal 8243 || Character ″ 
+Hex 0x2034 || Decimal 8244 || Character ‴ 
+Hex 0x2035 || Decimal 8245 || Character ‵ 
+Hex 0x2036 || Decimal 8246 || Character ‶ 
+Hex 0x2037 || Decimal 8247 || Character ‷ 
+Hex 0x2038 || Decimal 8248 || Character ‸ 
+Hex 0x2039 || Decimal 8249 || Character ‹ 
+Hex 0x203a || Decimal 8250 || Character › 
+Hex 0x203b || Decimal 8251 || Character ※ 
+Hex 0x203c || Decimal 8252 || Character ‼ 
+Hex 0x203d || Decimal 8253 || Character ‽ 
+Hex 0x203e || Decimal 8254 || Character ‾ 
+Hex 0x203f || Decimal 8255 || Character ‿ 
+Hex 0x2040 || Decimal 8256 || Character ⁀ 
+Hex 0x2041 || Decimal 8257 || Character ⁁ 
+Hex 0x2042 || Decimal 8258 || Character ⁂ 
+Hex 0x2043 || Decimal 8259 || Character ⁃ 
+Hex 0x2044 || Decimal 8260 || Character ⁄ 
+Hex 0x2045 || Decimal 8261 || Character ⁅ 
+Hex 0x2046 || Decimal 8262 || Character ⁆ 
+Hex 0x2047 || Decimal 8263 || Character ⁇ 
+Hex 0x2048 || Decimal 8264 || Character ⁈ 
+Hex 0x2049 || Decimal 8265 || Character ⁉ 
+Hex 0x204a || Decimal 8266 || Character ⁊ 
+Hex 0x204b || Decimal 8267 || Character ⁋ 
+Hex 0x204c || Decimal 8268 || Character ⁌ 
+Hex 0x204d || Decimal 8269 || Character ⁍ 
+Hex 0x204e || Decimal 8270 || Character ⁎ 
+Hex 0x204f || Decimal 8271 || Character ⁏ 
+Hex 0x2050 || Decimal 8272 || Character ⁐ 
+Hex 0x2051 || Decimal 8273 || Character ⁑ 
+Hex 0x2052 || Decimal 8274 || Character ⁒ 
+Hex 0x2053 || Decimal 8275 || Character ⁓ 
+Hex 0x2054 || Decimal 8276 || Character ⁔ 
+Hex 0x2055 || Decimal 8277 || Character ⁕ 
+Hex 0x2056 || Decimal 8278 || Character ⁖ 
+Hex 0x2057 || Decimal 8279 || Character ⁗ 
+Hex 0x2058 || Decimal 8280 || Character ⁘ 
+Hex 0x2059 || Decimal 8281 || Character ⁙ 
+Hex 0x205a || Decimal 8282 || Character ⁚ 
+Hex 0x205b || Decimal 8283 || Character ⁛ 
+Hex 0x205c || Decimal 8284 || Character ⁜ 
+Hex 0x205d || Decimal 8285 || Character ⁝ 
+Hex 0x205e || Decimal 8286 || Character ⁞ 
+Hex 0x205f || Decimal 8287 || Character   
+Hex 0x2060 || Decimal 8288 || Character ⁠ 
+Hex 0x2061 || Decimal 8289 || Character ⁡ 
+Hex 0x2062 || Decimal 8290 || Character ⁢ 
+Hex 0x2063 || Decimal 8291 || Character ⁣ 
+Hex 0x2064 || Decimal 8292 || Character ⁤ 
+Hex 0x2065 || Decimal 8293 || Character ⁥ 
+Hex 0x2066 || Decimal 8294 || Character ⁦ 
+Hex 0x2067 || Decimal 8295 || Character ⁧ 
+Hex 0x2068 || Decimal 8296 || Character ⁨ 
+Hex 0x2069 || Decimal 8297 || Character ⁩ 
+Hex 0x206a || Decimal 8298 || Character ⁪ 
+Hex 0x206b || Decimal 8299 || Character ⁫ 
+Hex 0x206c || Decimal 8300 || Character ⁬ 
+Hex 0x206d || Decimal 8301 || Character ⁭ 
+Hex 0x206e || Decimal 8302 || Character ⁮ 
+Hex 0x206f || Decimal 8303 || Character ⁯ 

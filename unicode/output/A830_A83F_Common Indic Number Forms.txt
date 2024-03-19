@@ -1,0 +1,16 @@
+Hex 0xa830 || Decimal 43056 || Character ꠰ 
+Hex 0xa831 || Decimal 43057 || Character ꠱ 
+Hex 0xa832 || Decimal 43058 || Character ꠲ 
+Hex 0xa833 || Decimal 43059 || Character ꠳ 
+Hex 0xa834 || Decimal 43060 || Character ꠴ 
+Hex 0xa835 || Decimal 43061 || Character ꠵ 
+Hex 0xa836 || Decimal 43062 || Character ꠶ 
+Hex 0xa837 || Decimal 43063 || Character ꠷ 
+Hex 0xa838 || Decimal 43064 || Character ꠸ 
+Hex 0xa839 || Decimal 43065 || Character ꠹ 
+Hex 0xa83a || Decimal 43066 || Character ꠺ 
+Hex 0xa83b || Decimal 43067 || Character ꠻ 
+Hex 0xa83c || Decimal 43068 || Character ꠼ 
+Hex 0xa83d || Decimal 43069 || Character ꠽ 
+Hex 0xa83e || Decimal 43070 || Character ꠾ 
+Hex 0xa83f || Decimal 43071 || Character ꠿ 

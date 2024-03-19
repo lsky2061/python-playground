@@ -1,0 +1,16 @@
+Hex 0x31f0 || Decimal 12784 || Character ㇰ 
+Hex 0x31f1 || Decimal 12785 || Character ㇱ 
+Hex 0x31f2 || Decimal 12786 || Character ㇲ 
+Hex 0x31f3 || Decimal 12787 || Character ㇳ 
+Hex 0x31f4 || Decimal 12788 || Character ㇴ 
+Hex 0x31f5 || Decimal 12789 || Character ㇵ 
+Hex 0x31f6 || Decimal 12790 || Character ㇶ 
+Hex 0x31f7 || Decimal 12791 || Character ㇷ 
+Hex 0x31f8 || Decimal 12792 || Character ㇸ 
+Hex 0x31f9 || Decimal 12793 || Character ㇹ 
+Hex 0x31fa || Decimal 12794 || Character ㇺ 
+Hex 0x31fb || Decimal 12795 || Character ㇻ 
+Hex 0x31fc || Decimal 12796 || Character ㇼ 
+Hex 0x31fd || Decimal 12797 || Character ㇽ 
+Hex 0x31fe || Decimal 12798 || Character ㇾ 
+Hex 0x31ff || Decimal 12799 || Character ㇿ 

@@ -1,0 +1,16 @@
+Hex 0x3190 || Decimal 12688 || Character ㆐ 
+Hex 0x3191 || Decimal 12689 || Character ㆑ 
+Hex 0x3192 || Decimal 12690 || Character ㆒ 
+Hex 0x3193 || Decimal 12691 || Character ㆓ 
+Hex 0x3194 || Decimal 12692 || Character ㆔ 
+Hex 0x3195 || Decimal 12693 || Character ㆕ 
+Hex 0x3196 || Decimal 12694 || Character ㆖ 
+Hex 0x3197 || Decimal 12695 || Character ㆗ 
+Hex 0x3198 || Decimal 12696 || Character ㆘ 
+Hex 0x3199 || Decimal 12697 || Character ㆙ 
+Hex 0x319a || Decimal 12698 || Character ㆚ 
+Hex 0x319b || Decimal 12699 || Character ㆛ 
+Hex 0x319c || Decimal 12700 || Character ㆜ 
+Hex 0x319d || Decimal 12701 || Character ㆝ 
+Hex 0x319e || Decimal 12702 || Character ㆞ 
+Hex 0x319f || Decimal 12703 || Character ㆟ 

@@ -1,0 +1,16 @@
+Hex 0xfe20 || Decimal 65056 || Character ︠ 
+Hex 0xfe21 || Decimal 65057 || Character ︡ 
+Hex 0xfe22 || Decimal 65058 || Character ︢ 
+Hex 0xfe23 || Decimal 65059 || Character ︣ 
+Hex 0xfe24 || Decimal 65060 || Character ︤ 
+Hex 0xfe25 || Decimal 65061 || Character ︥ 
+Hex 0xfe26 || Decimal 65062 || Character ︦ 
+Hex 0xfe27 || Decimal 65063 || Character ︧ 
+Hex 0xfe28 || Decimal 65064 || Character ︨ 
+Hex 0xfe29 || Decimal 65065 || Character ︩ 
+Hex 0xfe2a || Decimal 65066 || Character ︪ 
+Hex 0xfe2b || Decimal 65067 || Character ︫ 
+Hex 0xfe2c || Decimal 65068 || Character ︬ 
+Hex 0xfe2d || Decimal 65069 || Character ︭ 
+Hex 0xfe2e || Decimal 65070 || Character ︮ 
+Hex 0xfe2f || Decimal 65071 || Character ︯ 

@@ -1,0 +1,16 @@
+Hex 0x27f0 || Decimal 10224 || Character ⟰ 
+Hex 0x27f1 || Decimal 10225 || Character ⟱ 
+Hex 0x27f2 || Decimal 10226 || Character ⟲ 
+Hex 0x27f3 || Decimal 10227 || Character ⟳ 
+Hex 0x27f4 || Decimal 10228 || Character ⟴ 
+Hex 0x27f5 || Decimal 10229 || Character ⟵ 
+Hex 0x27f6 || Decimal 10230 || Character ⟶ 
+Hex 0x27f7 || Decimal 10231 || Character ⟷ 
+Hex 0x27f8 || Decimal 10232 || Character ⟸ 
+Hex 0x27f9 || Decimal 10233 || Character ⟹ 
+Hex 0x27fa || Decimal 10234 || Character ⟺ 
+Hex 0x27fb || Decimal 10235 || Character ⟻ 
+Hex 0x27fc || Decimal 10236 || Character ⟼ 
+Hex 0x27fd || Decimal 10237 || Character ⟽ 
+Hex 0x27fe || Decimal 10238 || Character ⟾ 
+Hex 0x27ff || Decimal 10239 || Character ⟿ 
